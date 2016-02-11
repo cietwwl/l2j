@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/skills.xsd">
+	<skill id="24000" levels="1" name="Mana Drug">
+		<set name="abnormalTime" val="15" />
+		<set name="displayId" val="26030" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="itemConsumeCount" val="1" />
+		<set name="itemConsumeId" val="726" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="ACTIVE_CONTINUOUS" />
+		<set name="reuseDelay" val="10000" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="ManaHealOverTime" ticks="3">
+				<param power="1.5" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="24001" levels="1" name="Mana Potion">
+		<set name="displayId" val="26030" />
+		<set name="isMagic" val="2" /> <!-- Static Skill -->
+		<set name="itemConsumeCount" val="1" />
+		<set name="itemConsumeId" val="728" />
+		<set name="magicLvl" val="1" />
+		<set name="operateType" val="ACTIVE_INSTANT" />
+		<set name="reuseDelay" val="500" />
+		<set name="targetType" val="SELF" />
+		<for>
+			<effect name="ManaHeal">
+				<param power="100" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="24002" levels="1" name="Custom Trap skill">
+		<!-- Use this skill if you want to handle trap activation in scripts(example Seed of Destruction Spawn Traps) -->
+		<set name="targetType" val="AURA" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill -->
+		<set name="operateType" val="PASSIVE" />
+	</skill>
+	<skill id="24003" levels="1" name="Prevailing Sonata" enchantGroup1="10" enchantGroup2="10">
+		<!-- Increases party members' Atk. Spd. by 15%, Casting Spd. by 30%, Max HP by 30%, MP recovery bonus by 20% and decreases MP Consumption for magic skill by 10% and the magic cancel rate for 5 minutes. -->
+		<table name="#ench1MpConsume"> 107 103 98 94 89 85 80 76 71 67 </table>
+		<table name="#ench1MpInitialConsume"> 26 25 24 23 22 21 20 19 17 16 </table>
+		<table name="#ench2AbnormalTime"> 330 360 390 420 450 480 510 540 570 600 </table>
+		<table name="#enchMagicLvl"> 86 87 88 90 91 92 93 95 97 99 </table>
+		<set name="affectRange" val="1000" />
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalType" val="PREV_SONATA" />
+		<set name="abnormalTime" val="600" />
+		<set name="icon" val="icon.skill11529" />
+		<set name="operateType" val="ACTIVE_CONTINUOUS" />
+		<set name="targetType" val="SELF" />
+		<set name="mpConsume" val="140" />
+		<set name="mpInitialConsume" val="28" />
+		<set name="hitTime" val="700" />
+		<set name="coolTime" val="300" />
+		<set name="reuseDelay" val="2000" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill-->
+		<set name="magicLvl" val="85" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<enchant1 name="mpConsume" val="#ench1MpConsume" />
+		<enchant1 name="mpInitialConsume" val="#ench1MpInitialConsume" />
+		<enchant1 name="magicLvl" val="#enchMagicLvl" />
+		<enchant2 name="abnormalTime" val="#ench2AbnormalTime" />
+		<enchant2 name="magicLvl" val="#enchMagicLvl" />
+		<for>
+			<effect name="Buff">
+				<mul stat="pAtkSpd" val="1.15" />
+				<mul stat="mAtkSpd" val="1.30" />
+				<mul stat="maxHp" val="1.30" />
+				<mul stat="regMp" val="1.20" />
+				<mul stat="magicalMpConsumeRate" val="0.90" />
+				<sub stat="cancel" val="50" /> <!-- Guess -->
+			</effect>
+			<effect name="DispelBySlotProbability">
+				<param dispel="ATTACK_TIME_DOWN;CASTING_TIME_DOWN;MAX_HP_UP;MP_REGEN_UP;MP_COST_DOWN" rate="100" />
+			</effect>
+			<effect name="BlockBuffSlot">
+				<param slot="ATTACK_TIME_DOWN;CASTING_TIME_DOWN;MAX_HP_UP;MP_REGEN_UP;MP_COST_DOWN" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="24004" levels="1" name="Daring Sonata" enchantGroup1="10" enchantGroup2="10">
+		<!-- Increases party members' P. Atk. by 8%, M. Atk. by 16%, Atk. Spd. and Casting Spd. by 8% and decreases P. Def. by 3%, M. Def. by 11% and P. Evasion by 4 for 5 minutes. Also bestows an 8% Vampiric Rage effect and a chance of reflecting 10% of the damage received. -->
+		<table name="#ench1MpConsume"> 107 103 98 94 89 85 80 76 71 67 </table>
+		<table name="#ench1MpInitialConsume"> 26 25 24 23 22 21 20 19 17 16 </table>
+		<table name="#ench2AbnormalTime"> 330 360 390 420 450 480 510 540 570 600 </table>
+		<table name="#enchMagicLvl"> 86 87 88 90 91 92 93 95 97 99 </table>
+		<set name="affectRange" val="1000" />
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalType" val="DARING_SONATA" />
+		<set name="abnormalTime" val="600" />
+		<set name="icon" val="icon.skill11530" />
+		<set name="operateType" val="ACTIVE_CONTINUOUS" />
+		<set name="targetType" val="SELF" />
+		<set name="mpConsume" val="140" />
+		<set name="mpInitialConsume" val="28" />
+		<set name="hitTime" val="700" />
+		<set name="coolTime" val="300" />
+		<set name="reuseDelay" val="2000" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill-->
+		<set name="magicLvl" val="85" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<enchant1 name="mpConsume" val="#ench1MpConsume" />
+		<enchant1 name="mpInitialConsume" val="#ench1MpInitialConsume" />
+		<enchant1 name="magicLvl" val="#enchMagicLvl" />
+		<enchant2 name="abnormalTime" val="#ench2AbnormalTime" />
+		<enchant2 name="magicLvl" val="#enchMagicLvl" />
+		<for>
+			<effect name="Buff">
+				<mul stat="pAtk" val="1.08" />
+				<mul stat="mAtk" val="1.16" />
+				<mul stat="pAtkSpd" val="1.08" />
+				<mul stat="mAtkSpd" val="1.08" />
+				<mul stat="pDef" val="0.97" />
+				<mul stat="mDef" val="0.89" />
+				<sub stat="rEvas" val="4" />
+				<add stat="absorbDam" val="8" />
+				<add stat="reflectDam" val="10" />
+			</effect>
+			<effect name="DispelBySlotProbability">
+				<param dispel="PA_UP;MA_UP;ATTACK_TIME_DOWN;CASTING_TIME_DOWN;PD_UP;MD_UP;AVOID_UP;VAMPIRIC_ATTACK" rate="100" />
+			</effect>
+			<effect name="BlockBuffSlot">
+				<param slot="PA_UP;MA_UP;ATTACK_TIME_DOWN;CASTING_TIME_DOWN;PD_UP;MD_UP;AVOID_UP;VAMPIRIC_ATTACK" />
+			</effect>
+		</for>
+	</skill>
+	<skill id="24005" levels="1" name="Refreshing Sonata" enchantGroup1="10" enchantGroup2="10">
+		<!-- Increases party members' HP Recovery Bonus by 20%, P.?Accuracy by 4, P.?Evasion by 3, Speed by 20, and decreases MP Consumption for skills by 20% and skill Cooldown by 10% for 5 minutes. -->
+		<table name="#ench1MpConsume"> 107 103 98 94 89 85 80 76 71 67 </table>
+		<table name="#ench1MpInitialConsume"> 26 25 24 23 22 21 20 19 17 16 </table>
+		<table name="#ench2AbnormalTime"> 330 360 390 420 450 480 510 540 570 600 </table>
+		<table name="#enchMagicLvl"> 86 87 88 90 91 92 93 95 97 99 </table>
+		<set name="affectRange" val="1000" />
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalType" val="REF_SONATA" />
+		<set name="abnormalTime" val="600" />
+		<set name="icon" val="icon.skill11532" />
+		<set name="operateType" val="ACTIVE_CONTINUOUS" />
+		<set name="targetType" val="SELF" />
+		<set name="mpConsume" val="140" />
+		<set name="mpInitialConsume" val="28" />
+		<set name="hitTime" val="700" />
+		<set name="coolTime" val="300" />
+		<set name="reuseDelay" val="2000" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill-->
+		<set name="magicLvl" val="85" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<enchant1 name="mpConsume" val="#ench1MpConsume" />
+		<enchant1 name="mpInitialConsume" val="#ench1MpInitialConsume" />
+		<enchant1 name="magicLvl" val="#enchMagicLvl" />
+		<enchant2 name="abnormalTime" val="#ench2AbnormalTime" />
+		<enchant2 name="magicLvl" val="#enchMagicLvl" />
+		<for>
+			<effect name="Buff">
+				<mul stat="regHp" val="1.20" />
+				<add stat="accCombat" val="4" />
+				<add stat="rEvas" val="3" />
+				<add stat="runSpd" val="20" />
+				<mul stat="physicalMpConsumeRate" val="0.80" />
+				<mul stat="magicalMpConsumeRate" val="0.80" />
+				<mul stat="mReuse" val="0.90" />
+				<mul stat="pReuse" val="0.90" />
+			</effect>
+			<effect name="DispelBySlotProbability">
+				<param dispel="HP_REGEN_UP;HIT_UP;AVOID_UP;SPEED_UP;MP_COST_DOWN;REUSE_DELAY_DOWN" rate="100" />
+			</effect>
+			<effect name="BlockBuffSlot">
+				<param slot="HP_REGEN_UP;HIT_UP;AVOID_UP;SPEED_UP;MP_COST_DOWN;REUSE_DELAY_DOWN" />
+			</effect>
+		</for>
+	</skill>
+</list>
