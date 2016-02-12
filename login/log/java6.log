@@ -1,0 +1,24 @@
+2016.02.06 16:54:07,208	INFO	1	com.l2jmobius.loginserver.LoginController	Loading LoginController...
+2016.02.06 16:54:09,208	INFO	1	com.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2016.02.06 16:54:09,880	INFO	1	com.l2jmobius.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2016.02.06 16:54:10,041	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 127 server names.
+2016.02.06 16:54:10,072	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 1 registered Game Servers.
+2016.02.06 16:54:10,439	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Cached 10 RSA keys for Game Server communication.
+2016.02.06 16:54:10,470	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2016.02.06 16:54:10,547	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Listening for GameServers on *:9014
+2016.02.06 16:54:10,548	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Telnet server is currently disabled.
+2016.02.06 16:54:10,550	INFO	1	com.l2jmobius.loginserver.L2LoginServer	L2LoginServer: is now listening on: *:2106
+2016.02.06 16:54:14,926	INFO	21	com.l2jmobius.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2016.02.06 16:54:14,928	INFO	21	com.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2016.02.06 16:54:14,929	INFO	21	com.l2jmobius.loginserver.GameServerThread	10.0.0.0/10.0.0.0/8
+2016.02.06 16:54:14,935	INFO	21	com.l2jmobius.loginserver.GameServerThread	172.16.0.0/172.16.0.0/19
+2016.02.06 16:54:14,936	INFO	21	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/16
+2016.02.06 16:54:14,937	INFO	21	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/24
+2016.02.06 16:54:14,938	INFO	21	com.l2jmobius.loginserver.GameServerThread	192.168.1.0/192.168.1.0/24
+2016.02.06 16:54:14,944	INFO	21	com.l2jmobius.loginserver.GameServerThread	40.122.127.54/0.0.0.0/0
+2016.02.06 17:03:53,292	INFO	21	com.l2jmobius.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2016.02.06 17:06:57,575	INFO	26	com.l2jmobius.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.02.06 17:07:02,600	INFO	27	com.l2jmobius.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.02.06 17:07:07,626	INFO	28	com.l2jmobius.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.02.06 17:07:12,657	INFO	29	com.l2jmobius.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed
+2016.02.06 17:07:17,675	INFO	30	com.l2jmobius.loginserver.GameServerThread	GameServer (127.0.0.1): Connection lost: socket closed

@@ -1,0 +1,32 @@
+2016.02.06 17:07:25,967	INFO	1	com.l2jmobius.loginserver.LoginController	Loading LoginController...
+2016.02.06 17:07:28,344	INFO	1	com.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2016.02.06 17:07:29,072	INFO	1	com.l2jmobius.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2016.02.06 17:07:29,259	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 127 server names.
+2016.02.06 17:07:29,296	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 1 registered Game Servers.
+2016.02.06 17:07:29,582	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Cached 10 RSA keys for Game Server communication.
+2016.02.06 17:07:29,605	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2016.02.06 17:07:29,704	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Listening for GameServers on *:9014
+2016.02.06 17:07:29,719	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Telnet server is currently disabled.
+2016.02.06 17:07:29,721	INFO	1	com.l2jmobius.loginserver.L2LoginServer	L2LoginServer: is now listening on: *:2106
+2016.02.06 17:07:30,241	INFO	21	com.l2jmobius.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2016.02.06 17:07:30,256	INFO	21	com.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2016.02.06 17:07:30,256	INFO	21	com.l2jmobius.loginserver.GameServerThread	10.0.0.0/10.0.0.0/8
+2016.02.06 17:07:30,256	INFO	21	com.l2jmobius.loginserver.GameServerThread	172.16.0.0/172.16.0.0/19
+2016.02.06 17:07:30,256	INFO	21	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/16
+2016.02.06 17:07:30,256	INFO	21	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/24
+2016.02.06 17:07:30,256	INFO	21	com.l2jmobius.loginserver.GameServerThread	192.168.1.0/192.168.1.0/24
+2016.02.06 17:07:30,256	INFO	21	com.l2jmobius.loginserver.GameServerThread	40.122.127.54/0.0.0.0/0
+2016.02.06 17:47:44,690	INFO	22	com.l2jmobius.loginserver.LoginController	Auto created account 'piecpo55'.
+2016.02.06 18:59:25,831	INFO	18	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
+2016.02.06 19:18:24,847	INFO	22	com.l2jmobius.loginserver.LoginController	Auto created account 'lechu666'.
+2016.02.07 14:30:32,409	INFO	25	com.l2jmobius.loginserver.LoginController	Auto created account 'gravier'.
+2016.02.07 14:31:13,636	INFO	25	com.l2jmobius.loginserver.LoginController	Auto created account 'babcia'.
+2016.02.07 14:33:04,573	INFO	25	com.l2jmobius.loginserver.LoginController	Auto created account 'buffer'.
+2016.02.07 14:33:30,054	INFO	22	com.l2jmobius.loginserver.LoginController	Auto created account 'nevario'.
+2016.02.07 15:36:19,141	INFO	18	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
+2016.02.08 19:51:25,773	INFO	24	com.l2jmobius.loginserver.LoginController	Auto created account 'nevarion'.
+2016.02.09 21:29:19,027	INFO	18	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
+2016.02.11 00:43:43,067	INFO	18	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
+2016.02.11 09:03:49,910	INFO	18	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
+2016.02.11 09:45:39,380	INFO	21	com.l2jmobius.loginserver.GameServerThread	GameServer [1] Bartz: Connection lost: Connection reset
+2016.02.11 09:45:39,380	INFO	21	com.l2jmobius.loginserver.GameServerThread	Server [1] Bartz is now set as disconnected

@@ -1,0 +1,21 @@
+2016.02.06 12:04:49,266	INFO	1	com.l2jmobius.loginserver.LoginController	Loading LoginController...
+2016.02.06 12:04:52,448	INFO	1	com.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2016.02.06 12:04:54,314	INFO	1	com.l2jmobius.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2016.02.06 12:04:56,700	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 127 server names.
+2016.02.06 12:04:56,724	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 1 registered Game Servers.
+2016.02.06 12:04:57,445	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Cached 10 RSA keys for Game Server communication.
+2016.02.06 12:04:57,568	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2016.02.06 12:04:58,400	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Listening for GameServers on 127.0.0.1:9014
+2016.02.06 12:04:58,400	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Telnet server is currently disabled.
+2016.02.06 12:04:58,400	INFO	1	com.l2jmobius.loginserver.L2LoginServer	L2LoginServer: is now listening on: *:2106
+2016.02.06 12:05:12,324	INFO	22	com.l2jmobius.loginserver.LoginController	Auto created account 'nerfyo'.
+2016.02.06 12:06:30,794	INFO	24	com.l2jmobius.loginserver.GameServerThread	Updated Gameserver [2] Sieghardt IP's:
+2016.02.06 12:06:30,810	INFO	24	com.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2016.02.06 12:06:30,810	INFO	24	com.l2jmobius.loginserver.GameServerThread	10.0.0.0/10.0.0.0/8
+2016.02.06 12:06:30,810	INFO	24	com.l2jmobius.loginserver.GameServerThread	172.16.0.0/172.16.0.0/19
+2016.02.06 12:06:30,810	INFO	24	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/16
+2016.02.06 12:06:30,810	INFO	24	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/24
+2016.02.06 12:06:30,810	INFO	24	com.l2jmobius.loginserver.GameServerThread	192.168.1.0/192.168.1.0/24
+2016.02.06 12:06:30,810	INFO	24	com.l2jmobius.loginserver.GameServerThread	40.122.127.54/0.0.0.0/0
+2016.02.06 12:14:29,763	INFO	25	com.l2jmobius.loginserver.LoginController	Auto created account 'gravier666'.
+2016.02.06 12:20:12,064	INFO	18	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1

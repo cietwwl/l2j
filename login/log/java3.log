@@ -1,0 +1,19 @@
+2016.02.11 12:21:00,100	INFO	1	com.l2jmobius.loginserver.LoginController	Loading LoginController...
+2016.02.11 12:21:00,803	INFO	1	com.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2016.02.11 12:21:01,033	INFO	1	com.l2jmobius.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2016.02.11 12:21:01,116	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 127 server names.
+2016.02.11 12:21:01,147	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 2 registered Game Servers.
+2016.02.11 12:21:01,367	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Cached 10 RSA keys for Game Server communication.
+2016.02.11 12:21:01,377	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2016.02.11 12:21:01,400	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Listening for GameServers on *:9014
+2016.02.11 12:21:01,401	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Telnet server is currently disabled.
+2016.02.11 12:21:01,402	INFO	1	com.l2jmobius.loginserver.L2LoginServer	L2LoginServer: is now listening on: *:2106
+2016.02.11 12:22:01,434	INFO	23	com.l2jmobius.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2016.02.11 12:22:01,436	INFO	23	com.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2016.02.11 12:22:01,436	INFO	23	com.l2jmobius.loginserver.GameServerThread	10.0.0.0/10.0.0.0/8
+2016.02.11 12:22:01,437	INFO	23	com.l2jmobius.loginserver.GameServerThread	172.16.0.0/172.16.0.0/19
+2016.02.11 12:22:01,437	INFO	23	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/16
+2016.02.11 12:22:01,437	INFO	23	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/24
+2016.02.11 12:22:01,437	INFO	23	com.l2jmobius.loginserver.GameServerThread	192.168.1.0/192.168.1.0/24
+2016.02.11 12:22:01,437	INFO	23	com.l2jmobius.loginserver.GameServerThread	104.155.44.168/0.0.0.0/0
+2016.02.11 12:22:48,191	INFO	25	com.l2jmobius.loginserver.LoginController	Auto created account 'karolusw89'.

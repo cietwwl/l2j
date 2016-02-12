@@ -1,0 +1,138 @@
+2016.02.11 12:43:18,499	INFO	1	com.l2jmobius.loginserver.LoginController	Loading LoginController...
+2016.02.11 12:43:19,109	INFO	1	com.l2jmobius.loginserver.LoginController	Cached 10 KeyPairs for RSA communication
+2016.02.11 12:43:19,562	INFO	1	com.l2jmobius.loginserver.LoginController	Stored 20 keys for Blowfish communication
+2016.02.11 12:43:19,656	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 127 server names.
+2016.02.11 12:43:21,671	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:23,675	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:25,683	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:27,684	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:29,697	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:31,703	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:33,715	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:35,735	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:37,782	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:39,813	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:41,814	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:43,861	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:45,908	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:47,970	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:50,017	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:52,049	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:54,112	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:56,127	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:43:58,190	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:00,253	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:02,284	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:04,300	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:06,347	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:08,394	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:10,441	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:12,504	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:14,566	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:16,598	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:18,645	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:20,676	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:22,676	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:24,692	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:26,708	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:28,724	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:30,786	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:32,818	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:34,849	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:36,896	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:38,943	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:41,006	WARNING	1	com.l2jmobius.commons.database.DatabaseFactory	DatabaseFactory: Unable to get a connection: Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2016.02.11 12:44:42,756	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Loaded 2 registered Game Servers.
+2016.02.11 12:44:42,866	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	GameServerTable: Cached 10 RSA keys for Game Server communication.
+2016.02.11 12:44:42,897	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Loaded 2 IP Bans.
+2016.02.11 12:44:43,100	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Listening for GameServers on *:9014
+2016.02.11 12:44:43,100	INFO	1	com.l2jmobius.loginserver.L2LoginServer	Telnet server is currently disabled.
+2016.02.11 12:44:43,100	INFO	1	com.l2jmobius.loginserver.L2LoginServer	L2LoginServer: is now listening on: *:2106
+2016.02.11 12:46:07,192	INFO	23	com.l2jmobius.loginserver.GameServerThread	Updated Gameserver [1] Bartz IP's:
+2016.02.11 12:46:07,193	INFO	23	com.l2jmobius.loginserver.GameServerThread	127.0.0.1/127.0.0.0/8
+2016.02.11 12:46:07,194	INFO	23	com.l2jmobius.loginserver.GameServerThread	10.0.0.0/10.0.0.0/8
+2016.02.11 12:46:07,194	INFO	23	com.l2jmobius.loginserver.GameServerThread	172.16.0.0/172.16.0.0/19
+2016.02.11 12:46:07,194	INFO	23	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/16
+2016.02.11 12:46:07,195	INFO	23	com.l2jmobius.loginserver.GameServerThread	192.168.0.0/192.168.0.0/24
+2016.02.11 12:46:07,195	INFO	23	com.l2jmobius.loginserver.GameServerThread	192.168.1.0/192.168.1.0/24
+2016.02.11 12:46:07,196	INFO	23	com.l2jmobius.loginserver.GameServerThread	104.155.44.168/0.0.0.0/0
