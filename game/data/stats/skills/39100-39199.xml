@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<!-- For 15 seconds, Speed increases by 66. --> 
+	<skill id="39101" levels="1" name="Chase Down">
+		<!-- AUTO GENERATED INFINITE ODYSSEY SKILL TODO: FIX IT -->
+		<set name="icon" val="icon.skill0000" />
+		<set name="operateType" val="ACTIVE_INSTANT" />
+		<set name="targetType" val="SELF" />
+	</skill>
+	<!-- Protected from preemptive attacks from monsters. --> 
+	<skill id="39102" levels="1" name="Sneak">
+		<!-- AUTO GENERATED INFINITE ODYSSEY SKILL TODO: FIX IT -->
+		<set name="icon" val="icon.skill0000" />
+		<set name="operateType" val="ACTIVE_INSTANT" />
+		<set name="targetType" val="SELF" />
+	</skill>
+<skill id="39103" levels="1" name="Refreshing Sonata" enchantGroup1="10" enchantGroup2="10">
+		<!-- Increases party members' HP Recovery Bonus by 20%, P.?Accuracy by 4, P.?Evasion by 3, Speed by 20, and decreases MP Consumption for skills by 20% and skill Cooldown by 10% for 5 minutes. -->
+		<table name="#ench1MpConsume"> 107 103 98 94 89 85 80 76 71 67 </table>
+		<table name="#ench1MpInitialConsume"> 26 25 24 23 22 21 20 19 17 16 </table>
+		<table name="#ench2AbnormalTime"> 330 360 390 420 450 480 510 540 570 600 </table>
+		<table name="#enchMagicLvl"> 86 87 88 90 91 92 93 95 97 99 </table>
+		<set name="affectRange" val="1000" />
+		<set name="abnormalLvl" val="1" />
+		<set name="abnormalType" val="REF_SONATA" />
+		<set name="abnormalTime" val="600" />
+		<set name="icon" val="icon.skill11532" />
+		<set name="operateType" val="ACTIVE_CONTINUOUS" />
+		<set name="targetType" val="SELF" />
+		<set name="mpConsume" val="140" />
+		<set name="mpInitialConsume" val="28" />
+		<set name="hitTime" val="700" />
+		<set name="coolTime" val="300" />
+		<set name="reuseDelay" val="2000" />
+		<set name="isMagic" val="1" /> <!-- Magic Skill-->
+		<set name="magicLvl" val="85" />
+		<set name="rideState" val="NONE;STRIDER;WYVERN;WOLF" />
+		<enchant1 name="mpConsume" val="#ench1MpConsume" />
+		<enchant1 name="mpInitialConsume" val="#ench1MpInitialConsume" />
+		<enchant1 name="magicLvl" val="#enchMagicLvl" />
+		<enchant2 name="abnormalTime" val="#ench2AbnormalTime" />
+		<enchant2 name="magicLvl" val="#enchMagicLvl" />
+		<for>
+			<effect name="Buff">
+				<mul stat="regHp" val="1.20" />
+				<add stat="accCombat" val="4" />
+				<add stat="rEvas" val="3" />
+				<add stat="runSpd" val="20" />
+				<mul stat="physicalMpConsumeRate" val="0.80" />
+				<mul stat="magicalMpConsumeRate" val="0.80" />
+				<mul stat="mReuse" val="0.90" />
+				<mul stat="pReuse" val="0.90" />
+			</effect>
+			<effect name="DispelBySlotProbability">
+				<param dispel="HP_REGEN_UP;HIT_UP;AVOID_UP;SPEED_UP;MP_COST_DOWN;REUSE_DELAY_DOWN" rate="100" />
+			</effect>
+			<effect name="BlockBuffSlot">
+				<param slot="HP_REGEN_UP;HIT_UP;AVOID_UP;SPEED_UP;MP_COST_DOWN;REUSE_DELAY_DOWN" />
+			</effect>
+		</for>
+	</skill>
+</list>
