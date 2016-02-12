@@ -1,0 +1,218 @@
+Feb 06, 2016 5:35:47 PM com.l2jmobius.gameserver.engines.skills.DocumentSkill makeSkills
+SEVERE: Skill id=15651level1
+java.lang.IllegalArgumentException: Enum value of type com.l2jmobius.gameserver.model.skills.SkillOperateType required, but not specified
+	at com.l2jmobius.gameserver.model.StatsSet.getEnum(StatsSet.java:540)
+	at com.l2jmobius.gameserver.model.skills.Skill.<init>(Skill.java:232)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.makeSkills(DocumentSkill.java:1684)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseSkill(DocumentSkill.java:538)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseDocument(DocumentSkill.java:123)
+	at com.l2jmobius.gameserver.engines.DocumentBase.parse(DocumentBase.java:167)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadSkills(DocumentEngine.java:89)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadAllSkills(DocumentEngine.java:98)
+	at com.l2jmobius.gameserver.datatables.SkillData.load(SkillData.java:60)
+	at com.l2jmobius.gameserver.datatables.SkillData.reload(SkillData.java:52)
+	at handlers.admincommandhandlers.AdminReload.useAdminCommand(AdminReload.java:177)
+	at com.l2jmobius.gameserver.network.clientpackets.DlgAnswer.runImpl(DlgAnswer.java:91)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 06, 2016 5:35:47 PM com.l2jmobius.gameserver.engines.DocumentBase parse
+SEVERE: Error loading file C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\stats\skills\15600-15699.xml
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseSkill(DocumentSkill.java:566)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseDocument(DocumentSkill.java:123)
+	at com.l2jmobius.gameserver.engines.DocumentBase.parse(DocumentBase.java:167)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadSkills(DocumentEngine.java:89)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadAllSkills(DocumentEngine.java:98)
+	at com.l2jmobius.gameserver.datatables.SkillData.load(SkillData.java:60)
+	at com.l2jmobius.gameserver.datatables.SkillData.reload(SkillData.java:52)
+	at handlers.admincommandhandlers.AdminReload.useAdminCommand(AdminReload.java:177)
+	at com.l2jmobius.gameserver.network.clientpackets.DlgAnswer.runImpl(DlgAnswer.java:91)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 06, 2016 5:43:15 PM com.l2jmobius.gameserver.engines.skills.DocumentSkill makeSkills
+SEVERE: Skill id=15651level1
+java.lang.IllegalArgumentException: Enum value of type com.l2jmobius.gameserver.model.skills.SkillOperateType required, but not specified
+	at com.l2jmobius.gameserver.model.StatsSet.getEnum(StatsSet.java:540)
+	at com.l2jmobius.gameserver.model.skills.Skill.<init>(Skill.java:232)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.makeSkills(DocumentSkill.java:1684)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseSkill(DocumentSkill.java:538)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseDocument(DocumentSkill.java:123)
+	at com.l2jmobius.gameserver.engines.DocumentBase.parse(DocumentBase.java:167)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadSkills(DocumentEngine.java:89)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadAllSkills(DocumentEngine.java:98)
+	at com.l2jmobius.gameserver.datatables.SkillData.load(SkillData.java:60)
+	at com.l2jmobius.gameserver.datatables.SkillData.reload(SkillData.java:52)
+	at handlers.admincommandhandlers.AdminReload.useAdminCommand(AdminReload.java:177)
+	at com.l2jmobius.gameserver.network.clientpackets.DlgAnswer.runImpl(DlgAnswer.java:91)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 06, 2016 5:43:16 PM com.l2jmobius.gameserver.engines.DocumentBase parse
+SEVERE: Error loading file C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\stats\skills\15600-15699.xml
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseSkill(DocumentSkill.java:566)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseDocument(DocumentSkill.java:123)
+	at com.l2jmobius.gameserver.engines.DocumentBase.parse(DocumentBase.java:167)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadSkills(DocumentEngine.java:89)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadAllSkills(DocumentEngine.java:98)
+	at com.l2jmobius.gameserver.datatables.SkillData.load(SkillData.java:60)
+	at com.l2jmobius.gameserver.datatables.SkillData.reload(SkillData.java:52)
+	at handlers.admincommandhandlers.AdminReload.useAdminCommand(AdminReload.java:177)
+	at com.l2jmobius.gameserver.network.clientpackets.DlgAnswer.runImpl(DlgAnswer.java:91)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 06, 2016 5:48:23 PM com.l2jmobius.gameserver.engines.skills.DocumentSkill makeSkills
+SEVERE: Skill id=15651level1
+java.lang.IllegalArgumentException: Enum value of type com.l2jmobius.gameserver.model.skills.SkillOperateType required, but not specified
+	at com.l2jmobius.gameserver.model.StatsSet.getEnum(StatsSet.java:540)
+	at com.l2jmobius.gameserver.model.skills.Skill.<init>(Skill.java:232)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.makeSkills(DocumentSkill.java:1684)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseSkill(DocumentSkill.java:538)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseDocument(DocumentSkill.java:123)
+	at com.l2jmobius.gameserver.engines.DocumentBase.parse(DocumentBase.java:167)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadSkills(DocumentEngine.java:89)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadAllSkills(DocumentEngine.java:98)
+	at com.l2jmobius.gameserver.datatables.SkillData.load(SkillData.java:60)
+	at com.l2jmobius.gameserver.datatables.SkillData.reload(SkillData.java:52)
+	at handlers.admincommandhandlers.AdminReload.useAdminCommand(AdminReload.java:177)
+	at com.l2jmobius.gameserver.network.clientpackets.DlgAnswer.runImpl(DlgAnswer.java:91)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 06, 2016 5:48:23 PM com.l2jmobius.gameserver.engines.DocumentBase parse
+SEVERE: Error loading file C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\stats\skills\15600-15699.xml
+java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+	at java.util.ArrayList.rangeCheck(Unknown Source)
+	at java.util.ArrayList.get(Unknown Source)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseSkill(DocumentSkill.java:566)
+	at com.l2jmobius.gameserver.engines.skills.DocumentSkill.parseDocument(DocumentSkill.java:123)
+	at com.l2jmobius.gameserver.engines.DocumentBase.parse(DocumentBase.java:167)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadSkills(DocumentEngine.java:89)
+	at com.l2jmobius.gameserver.engines.DocumentEngine.loadAllSkills(DocumentEngine.java:98)
+	at com.l2jmobius.gameserver.datatables.SkillData.load(SkillData.java:60)
+	at com.l2jmobius.gameserver.datatables.SkillData.reload(SkillData.java:52)
+	at handlers.admincommandhandlers.AdminReload.useAdminCommand(AdminReload.java:177)
+	at com.l2jmobius.gameserver.network.clientpackets.DlgAnswer.runImpl(DlgAnswer.java:91)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 06, 2016 5:59:44 PM com.l2jmobius.gameserver.model.quest.Quest showError
+WARNING: C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+java.lang.NullPointerException
+	at ai.npc.Nomi.Nomi.applyBuffs(Nomi.java:133)
+	at ai.npc.Nomi.Nomi.onAdvEvent(Nomi.java:101)
+	at com.l2jmobius.gameserver.model.quest.Quest.notifyEvent(Quest.java:553)
+	at com.l2jmobius.gameserver.model.actor.instance.L2PcInstance.processQuestEvent(L2PcInstance.java:1554)
+	at handlers.bypasshandlers.QuestLink.useBypass(QuestLink.java:69)
+	at com.l2jmobius.gameserver.model.actor.L2Npc.onBypassFeedback(L2Npc.java:743)
+	at com.l2jmobius.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:199)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 06, 2016 7:29:17 PM com.l2jmobius.gameserver.model.quest.Quest showError
+WARNING: C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+java.lang.NullPointerException
+	at ai.npc.Nomi.Nomi.applyBuffs(Nomi.java:133)
+	at ai.npc.Nomi.Nomi.onAdvEvent(Nomi.java:111)
+	at com.l2jmobius.gameserver.model.quest.Quest.notifyEvent(Quest.java:553)
+	at com.l2jmobius.gameserver.model.actor.instance.L2PcInstance.processQuestEvent(L2PcInstance.java:1554)
+	at handlers.bypasshandlers.QuestLink.useBypass(QuestLink.java:69)
+	at com.l2jmobius.gameserver.model.actor.L2Npc.onBypassFeedback(L2Npc.java:743)
+	at com.l2jmobius.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:199)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 06, 2016 7:29:21 PM com.l2jmobius.gameserver.model.quest.Quest showError
+WARNING: C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+java.lang.NullPointerException
+	at ai.npc.Nomi.Nomi.applyBuffs(Nomi.java:133)
+	at ai.npc.Nomi.Nomi.onAdvEvent(Nomi.java:101)
+	at com.l2jmobius.gameserver.model.quest.Quest.notifyEvent(Quest.java:553)
+	at com.l2jmobius.gameserver.model.actor.instance.L2PcInstance.processQuestEvent(L2PcInstance.java:1554)
+	at handlers.bypasshandlers.QuestLink.useBypass(QuestLink.java:69)
+	at com.l2jmobius.gameserver.model.actor.L2Npc.onBypassFeedback(L2Npc.java:743)
+	at com.l2jmobius.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:199)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 06, 2016 7:29:27 PM com.l2jmobius.gameserver.model.quest.Quest showError
+WARNING: C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+java.lang.NullPointerException
+	at ai.npc.Nomi.Nomi.applyBuffs(Nomi.java:133)
+	at ai.npc.Nomi.Nomi.onAdvEvent(Nomi.java:106)
+	at com.l2jmobius.gameserver.model.quest.Quest.notifyEvent(Quest.java:553)
+	at com.l2jmobius.gameserver.model.actor.instance.L2PcInstance.processQuestEvent(L2PcInstance.java:1554)
+	at handlers.bypasshandlers.QuestLink.useBypass(QuestLink.java:69)
+	at com.l2jmobius.gameserver.model.actor.L2Npc.onBypassFeedback(L2Npc.java:743)
+	at com.l2jmobius.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:199)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 07, 2016 11:11:31 AM com.l2jmobius.gameserver.model.quest.Quest showError
+WARNING: C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+java.lang.NullPointerException
+	at ai.npc.Nomi.Nomi.applyBuffs(Nomi.java:133)
+	at ai.npc.Nomi.Nomi.onAdvEvent(Nomi.java:101)
+	at com.l2jmobius.gameserver.model.quest.Quest.notifyEvent(Quest.java:553)
+	at com.l2jmobius.gameserver.model.actor.instance.L2PcInstance.processQuestEvent(L2PcInstance.java:1554)
+	at handlers.bypasshandlers.QuestLink.useBypass(QuestLink.java:69)
+	at com.l2jmobius.gameserver.model.actor.L2Npc.onBypassFeedback(L2Npc.java:743)
+	at com.l2jmobius.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:199)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+
+Feb 07, 2016 2:49:02 PM handlers.admincommandhandlers.AdminSkill adminAddSkill
+WARNING: 
+java.lang.NumberFormatException: For input string: "~52"
+	at java.lang.NumberFormatException.forInputString(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at java.lang.Integer.parseInt(Unknown Source)
+	at handlers.admincommandhandlers.AdminSkill.adminAddSkill(AdminSkill.java:463)
+	at handlers.admincommandhandlers.AdminSkill.useAdminCommand(AdminSkill.java:124)
+	at com.l2jmobius.gameserver.network.clientpackets.RequestBypassToServer.runImpl(RequestBypassToServer.java:170)
+	at com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket.run(L2GameClientPacket.java:67)
+	at com.l2jmobius.gameserver.network.L2GameClient.run(L2GameClient.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at java.lang.Thread.run(Unknown Source)
+

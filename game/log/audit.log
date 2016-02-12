@@ -1,0 +1,378 @@
+[06 Feb 16:54:26] AUDIT:Player ReEdiT has invalid skill Refreshing Sonata (39103/1), class:Paladin, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:54:32] AUDIT:Player GravieR has invalid skill Prevailing Sonata (Adventurer) (15651/1), class:Destroyer, L2PcInstance:GravieR[268487827], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Aggression Aura (18/37), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Aggression (28/49), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Remedy (44/3), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Divine Heal (45/9), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Holy Strike (49/26), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Sacrifice (69/25), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Drain Energy (70/13), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Iron Will (72/3), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Majesty (82/3), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Shield Stun (92/52), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:27] AUDIT:Player ReEdiT has invalid skill Sanctuary (97/11), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Ultimate Defense (110/2), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Deflect Arrow (112/4), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill M. Def. (147/51), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Shield Mastery (153/4), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Focus Mind (191/6), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Holy Blade (196/1), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Holy Armor (197/2), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Sword/Blunt Weapon Mastery (217/45), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Heavy Armor Mastery (232/52), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Divine Blessing (262/37), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Final Fortress (291/11), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Aegis Stance (318/1), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Shield Fortress (322/6), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Tribunal (400/10), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Shackle (403/10), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Mass Shackling (404/5), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Banish Undead (405/10), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:28] AUDIT:Player ReEdiT has invalid skill Angelic Archon (406/3), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:29] AUDIT:Player ReEdiT has invalid skill Vanguard (810/1), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:29] AUDIT:Player ReEdiT has invalid skill Shield Deflect Magic (916/4), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:29] AUDIT:Player ReEdiT has invalid skill Combat Aura (982/3), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:29] AUDIT:Player ReEdiT has invalid skill Patience (983/1), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:29] AUDIT:Player ReEdiT has invalid skill Shield Strike (984/15), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 16:56:30] AUDIT:Player ReEdiT has invalid skill Divine Inspiration (1405/2), class:Human Fighter, L2PcInstance:ReEdiT[268489123], BROADCAST
+[06 Feb 19:38:10] AUDIT:Player lechu has invalid skill Prevailing Sonata (24003/1), class:Silver Ranger, L2PcInstance:lechu[268490492], BROADCAST
+[06 Feb 19:38:10] AUDIT:Player lechu has invalid skill Daring Sonata Buff (24004/1), class:Silver Ranger, L2PcInstance:lechu[268490492], BROADCAST
+[06 Feb 19:38:10] AUDIT:Player lechu has invalid skill Refreshing Sonata (24005/1), class:Silver Ranger, L2PcInstance:lechu[268490492], BROADCAST
+[07 Feb 13:25:39] AUDIT:Player Nerfyo has invalid skill Force Storm (35/28), class:Duelist, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 13:25:39] AUDIT:Player Nerfyo has invalid skill Cancellation (1056/12), class:Duelist, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 13:25:39] AUDIT:Player Nerfyo has invalid skill Death Spike (1148/13), class:Duelist, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 13:25:39] AUDIT:Player Nerfyo has invalid skill Hydro Blast (1235/28), class:Duelist, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 13:25:40] AUDIT:Player Nerfyo has invalid skill Ice Vortex (1340/1), class:Duelist, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 13:25:40] AUDIT:Player Nerfyo has invalid skill Heroic Valor (1374/1), class:Duelist, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 13:25:40] AUDIT:Player Nerfyo has invalid skill Super Haste (7029/4), class:Duelist, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 16:44:21] AUDIT:Player Nerfyo has invalid skill Shield Stun (92/52), class:Adventurer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 16:44:21] AUDIT:Player Nerfyo has invalid skill Frenzy (176/3), class:Adventurer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 16:44:21] AUDIT:Player Nerfyo has invalid skill Fury Fists (222/1), class:Adventurer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 16:44:21] AUDIT:Player Nerfyo has invalid skill Dance of Fury (275/1), class:Adventurer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 16:44:21] AUDIT:Player Nerfyo has invalid skill Rabbit Spirit Totem (298/1), class:Adventurer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 16:44:21] AUDIT:Player Nerfyo has invalid skill Balance Life (1335/1), class:Adventurer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 16:44:21] AUDIT:Player Nerfyo has invalid skill Chant of Victory (1363/1), class:Adventurer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 16:44:21] AUDIT:Player Nerfyo has invalid skill Super Haste (7029/4), class:Adventurer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Guilted Body (462/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Weapon Mastery (463/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Armor Mastery (464/5), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Light Armor Mastery (465/50), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Magic Immunity (466/55), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Soul Mastery (467/23), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Fallen Attack (468/9), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Rapid Attack (469/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Detect Trap (470/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Defuse Trap (471/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:43] AUDIT:Player Nerfyo has invalid skill Ancient Sword Mastery (472/45), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Crossbow Mastery (473/8), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Rapier Mastery (474/8), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Strike Back (475/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Dark Strike (476/15), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Dark Smash (477/37), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Double Thrust (478/15), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Hard March (479/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Dark Blade (480/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Dark Armor (481/2), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Furious Soul (482/2), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Sword Shield (483/4), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Elementary Rush (484/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Disarm (485/7), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Increase Range (486/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Penetrating Shot (487/15), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Fast Shot (490/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Spread Wing (492/25), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Storm Assault (493/28), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Shoulder Charge (494/37), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Blade Rush (495/10), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Slashing Blade (496/31), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Crushing Pain (497/16), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Contagion (498/12), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Courage (499/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill True Berserker (500/2), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Violent Temper (501/12), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Life to Soul (502/5), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Scorn (503/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:44] AUDIT:Player Nerfyo has invalid skill Triple Thrust (504/37), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Shining Edge (505/28), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Checkmate (506/4), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Fire Trap (514/2), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Ultimate Escape (622/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Soul Gathering (625/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Critical Sense (626/4), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Soul Shock (627/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Warp (628/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Fast Recovery (832/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Body Reconstruction (833/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Blood Pact (834/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Painkiller (837/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Final Flying Form (840/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Fallen Arrow (1431/6), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Increase Power (1432/2), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Abyssal Blaze (1433/10), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Dark Explosion (1434/4), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Death Mark (1435/2), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Soul of Pain (1436/30), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Dark Flame (1437/26), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Annihilation Circle (1438/9), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Curse of Divinity (1439/5), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Steal Divinity (1440/5), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Soul to Empower (1441/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Darkness Protection (1442/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Dark Weapon (1443/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Pride of Kamael (1444/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Surrender to Dark (1445/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Shadow Bind (1446/11), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Voice Bind (1447/9), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Blink (1448/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Change Weapon (1473/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Abyssal Power (1474/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Erase Mark (1475/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Soul Cleanse (1510/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Curse of Life Flow (1511/8), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:45] AUDIT:Player Nerfyo has invalid skill Soul Barrier (1514/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:46] AUDIT:Player Nerfyo has invalid skill Expert Casting (1527/3), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:46] AUDIT:Player Nerfyo has invalid skill Soul Web (1529/7), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:46] AUDIT:Player Nerfyo has invalid skill Mana Pump (1565/6), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 17:43:46] AUDIT:Player Nerfyo has invalid skill Soul Roar (20006/1), class:Sorcerer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[07 Feb 19:28:59] AUDIT:Player GravieR has invalid skill Final Secret (917/1), class:Phantom Ranger, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 19:26:26] AUDIT:Player Nerfyo has invalid skill Riposte Stance (340/1), class:Gladiator, L2PcInstance:Nerfyo[268486660], BROADCAST
+[08 Feb 19:26:26] AUDIT:Player Nerfyo has invalid skill Sonic Rage (345/1), class:Gladiator, L2PcInstance:Nerfyo[268486660], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Robe Mastery (235/41), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Light Armor Mastery (236/41), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Armor Mastery (244/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Weapon Mastery (249/42), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Heavy Armor Mastery (259/33), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Heal (1011/18), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Cure Poison (1012/2), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Battle Heal (1015/15), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Resurrection (1016/2), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Group Heal (1027/15), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Disrupt Undead (1031/8), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Invigor (1032/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Poison Resistance (1033/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Mental Shield (1035/4), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Magic Barrier (1036/2), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Shield (1040/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Holy Weapon (1043/1), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Regeneration (1044/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Blessed Body (1045/6), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Blessed Soul (1048/6), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Return (1050/2), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Berserker Spirit (1062/2), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Might (1068/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Sleep (1069/9), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Eva's Kiss (1073/2), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Peace (1075/1), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Focus (1077/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Concentration (1078/6), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Acumen (1085/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Haste (1086/2), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Vampiric Touch (1147/2), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Curse: Weakness (1164/1), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Curse: Poison (1168/1), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Wind Strike (1177/5), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Water Resistance (1182/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Ice Bolt (1184/4), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:09] AUDIT:Player Neema has invalid skill Wind Resistance (1189/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Fire Resistance (1191/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Dryad Root (1201/33), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Wind Walk (1204/2), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Self Heal (1216/1), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Guidance (1240/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Death Whisper (1242/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Blessed Shield (1243/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Word of Fear (1272/13), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Greater Might (1388/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Greater Shield (1389/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Holy Attack Resistance (1392/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:10] AUDIT:Player Neema has invalid skill Dark Attack Resistance (1393/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:11] AUDIT:Player Neema has invalid skill Erase (1395/10), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:11] AUDIT:Player Neema has invalid skill Mana Burn (1398/10), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:11] AUDIT:Player Neema has invalid skill Improve Combat (1499/1), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:12] AUDIT:Player Neema has invalid skill Improve Condition (1501/1), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:13] AUDIT:Player Neema has invalid skill Steal Mana (1526/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 19:52:13] AUDIT:Player Neema has invalid skill Earth Resistance (1548/3), class:Doom Cryer, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Stun Attack (100/12), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Toughness (134/1), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Weapon Mastery (250/42), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Robe Mastery (251/45), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Light Armor Mastery (252/45), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Heavy Armor Mastery (253/43), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Hammer Crush (260/35), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Burning Chop (927/14), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Soul Cry (1001/10), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Chant of Flame (1002/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Pa'agrian Gift (1003/1), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Blessings of Pa'agrio (1005/1), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:13] AUDIT:Player Neema has invalid skill Chant of Fire (1006/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Battle (1007/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Shielding (1009/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Soul Shield (1010/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Life Drain (1090/6), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Fear (1092/19), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Venom (1095/5), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Seal of Chaos (1096/2), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Dreaming Spirit (1097/20), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Seal of Slow (1099/1), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chill Flame (1100/2), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Blaze Quake (1101/2), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Aura Sink (1102/6), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Madness (1105/18), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Frost Flame (1107/2), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Seal of Binding (1208/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Seal of Poison (1209/2), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Life (1229/18), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Freezing Flame (1244/4), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Steal Essence (1245/14), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Fury (1251/2), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Evasion (1252/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Rage (1253/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Revenge (1284/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Predator (1308/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Eagle (1309/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Vampire (1310/4), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Victory (1363/1), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill War Chant (1390/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Earth (1391/3), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Combat (1517/1), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Critical (1518/1), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Blood Awakening (1519/1), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Movement (1535/1), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 21:37:14] AUDIT:Player Neema has invalid skill Chant of Berserker (1562/2), class:Prophet, L2PcInstance:Neema[268488058], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Power Strike (3/9), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Iron Punch (29/9), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Bandage (34/3), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Spinning Slasher (36/37), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Rage (94/3), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Stun Attack (100/15), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Battle Roar (121/6), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Toughness (134/1), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Guts (139/5), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Weapon Mastery (141/3), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Armor Mastery (142/5), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Vital Force (148/8), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Frenzy (176/5), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Fatal Strike (190/37), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Boost HP (211/10), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Fast HP Recovery (212/8), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Polearm Mastery (216/45), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Relax (226/1), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Light Armor Mastery (227/50), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Heavy Armor Mastery (231/50), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Wild Sweep (245/15), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Power Smash (255/15), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Accuracy (256/1), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Sword/Blunt Weapon Mastery (257/45), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Hammer Crush (260/37), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Lionheart (287/3), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Two-handed Weapon Mastery (293/20), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Iron Body (295/1), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Vicious Stance (312/20), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Crush of Doom (315/16), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Wrath (320/10), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Zealot (420/3), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Polearm Accuracy (422/3), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill Dark Form (423/3), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:04] AUDIT:Player GravieR has invalid skill War Frenzy (424/3), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:01:05] AUDIT:Player GravieR has invalid skill Rush (994/1), class:Necromancer, L2PcInstance:GravieR[268487827], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Charm (15/52), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Poison Recovery (21/3), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Burst Shot (24/31), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Elemental Heal (58/55), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Cure Bleeding (61/3), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Entangle (102/16), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Spirit Barrier (123/3), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Critical Chance (137/3), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Critical Damage (193/7), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Sprint (230/2), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Rapid Fire (413/8), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 22:16:56] AUDIT:Player ReEdiT has invalid skill Blessing of Sagittarius (416/3), class:Phantom Ranger, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Summon Lore (435/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Spirit of the Cat (929/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Cancellation (1056/12), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Sleeping Cloud (1072/5), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Surrender to Wind (1074/14), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Curse Fear (1169/14), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Blazing Circle (1171/19), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Prominence (1230/28), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Aura Flare (1231/28), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Blazing Skin (1232/3), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Decay (1233/4), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Aura Bolt (1275/14), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Seed of Fire (1285/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Aura Symphony (1288/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Inferno (1289/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Elemental Assault (1292/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Rain of Fire (1296/9), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:03] AUDIT:Player ReEdiT has invalid skill Clear Mind (1297/6), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:04] AUDIT:Player ReEdiT has invalid skill Aura Flash (1417/5), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:04] AUDIT:Player ReEdiT has invalid skill Summon White Wing (8605/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:04] AUDIT:Player ReEdiT has invalid skill Superior Summon Mastery (11254/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:04] AUDIT:Player ReEdiT has invalid skill Summon Cute Bear (11256/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:04] AUDIT:Player ReEdiT has invalid skill Summon Barrier (11274/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:04] AUDIT:Player ReEdiT has invalid skill Summon Wynn Kai the Cat (11320/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[08 Feb 23:24:04] AUDIT:Player ReEdiT has invalid skill Summon Wynn Feline King (11321/1), class:Warlock, L2PcInstance:ReEdiT[268489123], BROADCAST
+[09 Feb 16:41:02] AUDIT:Player Nerfyo has invalid skill Noblesse Blessing (1323/1), class:Plains Walker, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Summon Phantom Cubic (33/8), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Magician's Movement (118/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Cubic Mastery (143/2), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Anti Magic (146/45), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Spellcraft (163/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Quick Recovery (164/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Fast HP Recovery (212/6), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Boost Mana (213/8), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Mana Recovery (214/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Fast Spell Casting (228/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Fast Mana Recovery (229/7), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Robe Mastery (234/41), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Armor Mastery (244/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Weapon Mastery (249/42), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Light Armor Mastery (258/33), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Higher Mana Gain (285/8), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Children of Shilen (964/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Heal (1011/6), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Cure Poison (1012/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Battle Heal (1015/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Group Heal (1027/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Shield (1040/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Might (1068/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Sleep (1069/9), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Concentration (1078/2), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Servitor Recharge (1126/34), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Servitor Heal (1127/45), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Summon Shadow (1128/18), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Servitor Magic Shield (1139/2), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Servitor Physical Shield (1140/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Servitor Haste (1141/2), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Mighty Servitor (1146/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Vampiric Touch (1147/6), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Corpse Life Drain (1151/2), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Body To Mind (1157/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Decrease Speed (1160/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Poisonous Cloud (1167/2), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Curse: Poison (1168/7), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Aura Burn (1172/8), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Wind Strike (1177/5), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Twister (1178/8), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Flame Strike (1181/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Ice Bolt (1184/6), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Wind Shackle (1206/19), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:00] AUDIT:Player Nerfyo has invalid skill Self Heal (1216/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Curse Chaos (1222/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Surrender to Poison (1224/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Summon Silhouette (1228/18), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Transfer Pain (1262/5), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Shadow Spark (1266/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Summon Soulless (1278/14), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Summon Spark Cubic (1281/9), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Servitor Empowerment (1299/2), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Servitor Cure (1300/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Servitor Blessing (1301/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Mass Summon Phantom Cubic (1330/8), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Summon Nightshade (1333/10), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Betray (1380/10), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Mass Surrender to Wind (1385/5), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Summon Friend (1403/1), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Death Spike (1530/13), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Spirit Sharing (1547/3), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST
+[09 Feb 21:15:01] AUDIT:Player Nerfyo has invalid skill Dimension Spiral (1558/14), class:Bladedancer, L2PcInstance:Nerfyo[268486660], BROADCAST

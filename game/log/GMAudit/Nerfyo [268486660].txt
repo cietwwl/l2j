@@ -1,0 +1,6 @@
+07/02/2016 17:02:33>Nerfyo [268486660]>Drop>Helvetia>(id: 36507 name: Lindvior Thrower objId: 268540174 x: 80303 y: 147725 z: -3508)
+07/02/2016 18:58:39>Nerfyo [268486660]>Drop>GravieR>(id: 36507 name: Lindvior Thrower objId: 268540174 x: -17628 y: 123657 z: -3162)
+07/02/2016 18:59:38>Nerfyo [268486660]>Drop>GravieR>(id: 18550 name: Orichalcum Arrow objId: 268540948 x: -17593 y: 123631 z: -3159)
+07/02/2016 18:59:42>Nerfyo [268486660]>Drop>GravieR>(id: 19443 name: Orichalcum Bolt objId: 268540149 x: -17593 y: 123631 z: -3159)
+08/02/2016 19:36:50>Nerfyo [268486660]>Drop>Nerfyo>(id: 2369 name: Squire's Sword objId: 268486661 x: 115544 y: 15830 z: 5987)
+08/02/2016 20:12:33>Nerfyo [268486660]>Drop>Nerfyo>(id: 5625 name: Dragon Grinder objId: 268529667 x: -17085 y: 123911 z: -3159)

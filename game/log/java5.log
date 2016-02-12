@@ -1,0 +1,1109 @@
+2016.02.06 17:03:53,960	INFO	1	com.l2jmobius.gameserver.GameServer	-----------------------------------=[ Network Configuration ]
+2016.02.06 17:03:54,038	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	Using existing ipconfig.xml.
+2016.02.06 17:03:54,339	WARNING	1	com.l2jmobius.util.PropertiesParser	[Custom.ini] Invalid value specified for key: ChampionRewardItemID specified value:  should be "int" using default value: 6393
+2016.02.06 17:03:54,741	INFO	1	com.l2jmobius.Config	Loaded 6 Filter Words.
+2016.02.06 17:03:54,759	INFO	1	com.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Database ]
+2016.02.06 17:03:56,524	INFO	1	com.l2jmobius.gameserver.idfactory.BitSetIDFactory	Updated characters online status.
+2016.02.06 17:03:56,618	INFO	1	com.l2jmobius.gameserver.idfactory.BitSetIDFactory	Cleaned 0 elements from database in 0 s
+2016.02.06 17:03:56,633	INFO	1	com.l2jmobius.gameserver.idfactory.BitSetIDFactory	Cleaned 0 expired timestamps from database.
+2016.02.06 17:03:56,665	INFO	1	com.l2jmobius.gameserver.idfactory.BitSetIDFactory	BitSetIDFactory: 102912 id's available.
+2016.02.06 17:03:56,665	INFO	1	com.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Engines ]
+2016.02.06 17:03:56,696	INFO	1	com.l2jmobius.gameserver.scripting.L2ScriptEngineManager	Script Engine: java 1.8 - Language: java - Language Version: 1.8
+2016.02.06 17:03:56,696	INFO	1	com.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ World ]
+2016.02.06 17:03:56,696	CONFIG	19	com.l2jmobius.gameserver.GameTimeController	GameTimeController: Started.
+2016.02.06 17:03:56,744	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	InstanceManager: Multiverse Instance created.
+2016.02.06 17:03:56,744	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	InstanceManager: Universe Instance created.
+2016.02.06 17:03:56,866	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	InstanceManager: Loaded 263 instance names.
+2016.02.06 17:03:56,933	INFO	1	com.l2jmobius.gameserver.model.L2World	L2World: (144 by 136) World Region Grid set up.
+2016.02.06 17:03:57,752	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	MapRegionManager: Loaded 59 map regions.
+2016.02.06 17:03:57,860	INFO	1	com.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Loaded 5 variables.
+2016.02.06 17:03:57,873	INFO	1	com.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ Data ]
+2016.02.06 17:03:58,003	INFO	1	com.l2jmobius.gameserver.data.xml.impl.CategoryData	CategoryData: Loaded 142 Categories.
+2016.02.06 17:03:58,026	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SecondaryAuthData: Loaded 328 forbidden passwords.
+2016.02.06 17:03:58,117	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	AbilityPointsData: Loaded: 4 range fees.
+2016.02.06 17:03:58,126	INFO	1	com.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Effects ]
+2016.02.06 17:04:05,684	INFO	1	handlers.EffectMasterHandler	EffectMasterHandler: Loaded 178 effect handlers.
+2016.02.06 17:04:05,692	INFO	1	com.l2jmobius.gameserver.GameServer	------------------------------------=[ Enchant Skill Groups ]
+2016.02.06 17:04:05,751	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	EnchantSkillGroupsData: Loaded 5 groups and 100 routes.
+2016.02.06 17:04:05,752	INFO	1	com.l2jmobius.gameserver.GameServer	---------------------------------------------=[ Skill Trees ]
+2016.02.06 17:04:08,574	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.06 17:04:08,628	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.06 17:04:08,713	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.06 17:04:08,748	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.06 17:04:08,791	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.06 17:04:08,793	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.06 17:04:08,800	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.06 17:04:08,800	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.06 17:04:08,800	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.06 17:04:08,800	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.06 17:04:08,819	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.06 17:04:08,819	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.06 17:04:08,819	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.06 17:04:08,819	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.06 17:04:08,832	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.06 17:04:08,832	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.06 17:04:08,832	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.06 17:04:08,847	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.06 17:04:08,847	INFO	1	com.l2jmobius.gameserver.GameServer	--------------------------------------------------=[ Skills ]
+2016.02.06 17:04:27,032	INFO	1	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.06 17:04:27,273	INFO	1	com.l2jmobius.gameserver.data.sql.impl.SummonSkillsTable	SummonSkillsTable: Loaded 2674 skills.
+2016.02.06 17:04:27,273	INFO	1	com.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Items ]
+2016.02.06 17:04:31,663	INFO	1	com.l2jmobius.gameserver.datatables.ItemTable	ItemTable: Highest item id used:46692
+2016.02.06 17:04:31,719	INFO	1	com.l2jmobius.gameserver.datatables.ItemTable	ItemTable: Loaded: 20025 Etc Items
+2016.02.06 17:04:31,720	INFO	1	com.l2jmobius.gameserver.datatables.ItemTable	ItemTable: Loaded: 10168 Armor Items
+2016.02.06 17:04:31,722	INFO	1	com.l2jmobius.gameserver.datatables.ItemTable	ItemTable: Loaded: 8490 Weapon Items
+2016.02.06 17:04:31,723	INFO	1	com.l2jmobius.gameserver.datatables.ItemTable	ItemTable: Loaded: 38683 Items in total.
+2016.02.06 17:04:31,738	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	EnchantItemGroupsData: Loaded: 4 item group templates.
+2016.02.06 17:04:31,744	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	EnchantItemGroupsData: Loaded: 1 scroll group templates.
+2016.02.06 17:04:31,792	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	EnchantItemData: Loaded 251 Enchant Scrolls.
+2016.02.06 17:04:31,792	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	EnchantItemData: Loaded 97 Support Items.
+2016.02.06 17:04:31,840	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	EnchantItemOptionsData: Loaded: 24 Items and 1107 Options.
+2016.02.06 17:04:31,877	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	ItemCrystalizationData: Loaded: 170 Items
+2016.02.06 17:04:33,915	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	OptionData: Loaded: 25035 Options.
+2016.02.06 17:04:34,012	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	EnchantItemHPBonusData: Loaded 11 Enchant HP Bonuses.
+2016.02.06 17:04:34,058	INFO	1	com.l2jmobius.gameserver.datatables.MerchantPriceConfigTable	MerchantPriceConfigTable: Loaded 28 merchant price configs.
+2016.02.06 17:04:37,290	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	BuyListData: Loaded 850 BuyLists.
+2016.02.06 17:04:38,950	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	MultisellData: Loaded 331 multisell lists.
+2016.02.06 17:04:39,131	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	RecipeData: Loaded 1611 recipes.
+2016.02.06 17:04:39,263	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	ArmorSetsData: Loaded 297 Armor sets.
+2016.02.06 17:04:39,438	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	HennaData: Loaded 440 Henna data.
+2016.02.06 17:04:39,480	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	FishData: Loaded 321 Fishes.
+2016.02.06 17:04:39,491	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	FishingMonstersData: Loaded 8 Fishing Monsters.
+2016.02.06 17:04:39,516	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	FishingRodsData: Loaded 8 Fishing Rods.
+2016.02.06 17:04:39,565	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	PrimeShopData: Loaded 194 items
+2016.02.06 17:04:39,594	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	AppearanceItemData: Loaded: 246 Stones
+2016.02.06 17:04:39,634	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	LuckyGameData: Loaded 52 Normal item rewards.
+2016.02.06 17:04:39,646	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	LuckyGameData: Loaded 96 Luxury item rewards.
+2016.02.06 17:04:39,647	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	LuckyGameData: Loaded 68 Rare item rewards.
+2016.02.06 17:04:39,657	INFO	1	com.l2jmobius.gameserver.GameServer	----------------------------------------------=[ Characters ]
+2016.02.06 17:04:39,702	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	ClassListData: Loaded 157 Class data.
+2016.02.06 17:04:39,712	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	InitialEquipmentData: Loaded 13 Initial Equipment data.
+2016.02.06 17:04:39,722	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	InitialShortcutData: Loaded 5 Initial Global Shortcuts data.
+2016.02.06 17:04:39,725	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	InitialShortcutData: Loaded 5 Initial Shortcuts data.
+2016.02.06 17:04:39,732	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	InitialShortcutData: Loaded 0 Macros presets.
+2016.02.06 17:04:39,744	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	ExperienceData: Loaded 75 levels.
+2016.02.06 17:04:39,752	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	ExperienceData: Max Player Level is: 75
+2016.02.06 17:04:39,754	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	ExperienceData: Max Pet Level is: 75
+2016.02.06 17:04:39,764	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	KarmaData: Loaded 75 karma modifiers.
+2016.02.06 17:04:39,773	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	HitConditionBonusData: Loaded Hit Condition bonuses.
+2016.02.06 17:04:41,011	INFO	1	com.l2jmobius.gameserver.data.xml.impl.PlayerTemplateData	PlayerTemplateData: Loaded 145 character templates.
+2016.02.06 17:04:41,033	INFO	1	com.l2jmobius.gameserver.data.xml.impl.PlayerTemplateData	PlayerTemplateData: Loaded 65250 level up gain records.
+2016.02.06 17:04:41,053	INFO	1	com.l2jmobius.gameserver.data.sql.impl.CharNameTable	CharNameTable: Loaded 6 char names.
+2016.02.06 17:04:41,082	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	AdminData: Loaded: 10 Access Levels.
+2016.02.06 17:04:41,140	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	AdminData: Loaded: 438 Access Commands.
+2016.02.06 17:04:42,213	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	PetDataTable: Loaded 49 Pets.
+2016.02.06 17:04:42,354	INFO	1	com.l2jmobius.gameserver.GameServer	PremiumManager: Premium system is enabled.
+2016.02.06 17:04:42,370	INFO	1	com.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Clans ]
+2016.02.06 17:04:42,534	INFO	1	com.l2jmobius.gameserver.communitybbs.Manager.ForumsBBSManager	Loaded 5 forums. Last forum id used: 5
+2016.02.06 17:04:42,619	INFO	1	com.l2jmobius.gameserver.data.sql.impl.ClanTable	ClanTable: Restored 1 clans from the database.
+2016.02.06 17:04:42,661	INFO	1	com.l2jmobius.gameserver.instancemanager.CHSiegeManager	CHSiegeManager: Loaded 6 conquerable clan halls.
+2016.02.06 17:04:43,047	INFO	1	com.l2jmobius.gameserver.instancemanager.ClanHallAuctionManager	ClanHallAuctionManager: Loaded: 38 auction(s)
+2016.02.06 17:04:43,054	INFO	1	com.l2jmobius.gameserver.instancemanager.ClanHallManager	ClanHallManager: Loaded: 0 clan halls
+2016.02.06 17:04:43,061	INFO	1	com.l2jmobius.gameserver.instancemanager.ClanHallManager	ClanHallManager: Loaded: 38 free clan halls
+2016.02.06 17:04:43,112	INFO	1	com.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded: 0 clan entry
+2016.02.06 17:04:43,122	INFO	1	com.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded: 0 player in waiting list
+2016.02.06 17:04:43,134	INFO	1	com.l2jmobius.gameserver.instancemanager.ClanEntryManager	ClanEntryManager: Loaded: 0 player application
+2016.02.06 17:04:43,143	INFO	1	com.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Geodata ]
+2016.02.06 17:04:43,383	INFO	1	com.l2jmobius.gameserver.GeoData	GeoData: Loaded 0 regions.
+2016.02.06 17:04:43,400	INFO	1	com.l2jmobius.gameserver.GameServer	----------------------------------------------------=[ NPCs ]
+2016.02.06 17:04:43,420	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SkillLearnData: Loaded 256 Skill Learn data.
+2016.02.06 17:04:43,494	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	MinionData: Loaded 128 minions data.
+2016.02.06 17:04:49,693	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	NpcData: Loaded 13835 NPCs.
+2016.02.06 17:04:49,835	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	NpcData: Loaded 10 Custom NPCs.
+2016.02.06 17:04:51,126	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	WalkingManager: Loaded 141 walking routes.
+2016.02.06 17:04:51,191	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	StaticObjectData: Loaded 51 static object templates.
+2016.02.06 17:04:52,000	INFO	1	com.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Queen Ant(29001) status is 0.
+2016.02.06 17:04:52,146	INFO	1	com.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Core(29006) status is 0.
+2016.02.06 17:04:52,155	INFO	1	com.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Orfen(29014) status is 0.
+2016.02.06 17:04:52,157	INFO	1	com.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Baium(29020) status is 0.
+2016.02.06 17:04:52,164	INFO	1	com.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Valakas(29028) status is 0.
+2016.02.06 17:04:52,166	INFO	1	com.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Antharas(29068) status is 0.
+2016.02.06 17:04:52,192	INFO	1	com.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Beleth(29118) status is 0.
+2016.02.06 17:04:52,226	INFO	1	com.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Loaded 7 Instances
+2016.02.06 17:04:57,019	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	DoorData: Loaded 1435 Door Templates for 22 regions.
+2016.02.06 17:04:59,975	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	ZoneManager: Loaded 29 zone classes and 2878 zones.
+2016.02.06 17:05:00,003	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	ZoneManager: Loaded 0 NPC spawn territoriers.
+2016.02.06 17:05:00,104	INFO	1	com.l2jmobius.gameserver.instancemanager.CastleManager	CastleManager: Loaded: 9 castles
+2016.02.06 17:05:00,120	INFO	1	com.l2jmobius.gameserver.data.sql.impl.NpcBufferTable	NpcBufferTable: Loaded 2 buffers and 64 skills.
+2016.02.06 17:05:00,131	INFO	1	com.l2jmobius.gameserver.instancemanager.GrandBossManager	GrandBossManager: Initialized 12 Grand Boss Zones
+2016.02.06 17:05:00,142	INFO	1	com.l2jmobius.gameserver.GameServer	-----------------------------------------=[ Auction Manager ]
+2016.02.06 17:05:00,219	INFO	1	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Loaded 49 item(s) and registered 1 auction(s) for instance 32320.
+2016.02.06 17:05:00,228	INFO	1	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Schedule next auction 1 on 17:00:00 12.02.16 for instance 32320
+2016.02.06 17:05:00,242	INFO	1	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Loaded 49 item(s) and registered 1 auction(s) for instance 32321.
+2016.02.06 17:05:00,252	INFO	1	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Schedule next auction 2 on 17:00:00 08.02.16 for instance 32321
+2016.02.06 17:05:00,270	INFO	1	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Loaded 49 item(s) and registered 1 auction(s) for instance 32322.
+2016.02.06 17:05:00,280	INFO	1	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Schedule next auction 3 on 17:00:00 10.02.16 for instance 32322
+2016.02.06 17:05:00,288	INFO	1	com.l2jmobius.gameserver.instancemanager.ItemAuctionManager	ItemAuctionManager: Loaded 3 instance(s).
+2016.02.06 17:05:00,290	INFO	1	com.l2jmobius.gameserver.GameServer	------------------------------------------------=[ Olympiad ]
+2016.02.06 17:05:00,339	INFO	1	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loading Olympiad System....
+2016.02.06 17:05:00,344	INFO	1	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Currently in Olympiad Period
+2016.02.06 17:05:00,352	INFO	1	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: 34254 minutes until period ends
+2016.02.06 17:05:00,383	INFO	1	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Next weekly change is in 9783 minutes
+2016.02.06 17:05:00,384	INFO	1	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Loaded 0 Nobles
+2016.02.06 17:05:00,393	INFO	1	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 0 hours and 54 mins.
+2016.02.06 17:05:00,400	INFO	1	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started : Sat Feb 06 18:00:00 UTC 2016
+2016.02.06 17:05:00,416	INFO	1	com.l2jmobius.gameserver.model.entity.Hero	Hero System: Loaded 0 Heroes.
+2016.02.06 17:05:00,416	INFO	1	com.l2jmobius.gameserver.model.entity.Hero	Hero System: Loaded 0 all time Heroes.
+2016.02.06 17:05:00,435	INFO	1	com.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Cache ]
+2016.02.06 17:05:00,447	INFO	1	com.l2jmobius.gameserver.cache.HtmCache	Html cache start...
+2016.02.06 17:05:04,382	INFO	1	com.l2jmobius.gameserver.cache.HtmCache	Cache[HTML]: 5.954 megabytes on 11133 files loaded
+2016.02.06 17:05:04,441	INFO	1	com.l2jmobius.gameserver.data.sql.impl.CrestTable	CrestTable: Loaded 0 Crests.
+2016.02.06 17:05:04,500	INFO	1	com.l2jmobius.gameserver.data.sql.impl.TeleportLocationTable	TeleportLocationTable: Loaded 1008 Teleport Location Templates.
+2016.02.06 17:05:04,615	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	Loaded: 21 npc teleporters.
+2016.02.06 17:05:04,637	INFO	1	com.l2jmobius.gameserver.data.xml.impl.UIData	UIData: Loaded 4 keys 5 categories.
+2016.02.06 17:05:04,840	INFO	1	com.l2jmobius.gameserver.datatables.AugmentationData	AugmentationData: Loaded: 40756 augmentations.
+2016.02.06 17:05:04,849	INFO	1	com.l2jmobius.gameserver.datatables.AugmentationData	AugmentationData: Loaded: 3060 accessory augmentations.
+2016.02.06 17:05:04,866	INFO	1	com.l2jmobius.gameserver.instancemanager.CursedWeaponsManager	CursedWeaponsManager: Loaded : 2 cursed weapon(s).
+2016.02.06 17:05:05,794	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	TransformData: Loaded: 124 transform templates.
+2016.02.06 17:05:05,927	INFO	1	com.l2jmobius.gameserver.datatables.BotReportTable	BotReportTable: Loaded 0 bot reports
+2016.02.06 17:05:05,942	WARNING	1	com.l2jmobius.util.data.xml.IXmlReader	DailyMissionData: Could not parse file dailyMissions.xml at line 356, column 75: cvc-elt.1: Cannot find the declaration of element 'mission'.
+2016.02.06 17:05:05,951	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	DailyMissionData: Loaded 0 daily missions.
+2016.02.06 17:05:05,959	INFO	1	com.l2jmobius.gameserver.GameServer	-------------------------------------------------=[ Scripts ]
+2016.02.06 17:05:05,975	INFO	1	com.l2jmobius.gameserver.instancemanager.AirShipManager	AirShipManager: Loaded 0 private airships
+2016.02.06 17:05:05,993	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	ShuttleData: Loaded: 3 Shuttles.
+2016.02.06 17:05:06,025	INFO	1	com.l2jmobius.gameserver.instancemanager.JumpManager	JumpManager: Loaded 32 Jump Routes.
+2016.02.06 17:05:06,035	INFO	1	com.l2jmobius.gameserver.GameServer	GameServer: Loading server scripts:
+2016.02.06 17:05:14,392	INFO	1	handlers.MasterHandler	Loading Handlers...
+2016.02.06 17:05:16,428	INFO	1	handlers.MasterHandler	ActionHandler: Loaded 10 Handlers
+2016.02.06 17:05:16,446	INFO	1	handlers.MasterHandler	ActionShiftHandler: Loaded 6 Handlers
+2016.02.06 17:05:16,464	INFO	1	handlers.MasterHandler	AdminCommandHandler: Loaded 436 Handlers
+2016.02.06 17:05:16,473	INFO	1	handlers.MasterHandler	BypassHandler: Loaded 42 Handlers
+2016.02.06 17:05:16,485	INFO	1	handlers.MasterHandler	ChatHandler: Loaded 14 Handlers
+2016.02.06 17:05:16,491	INFO	1	handlers.MasterHandler	CommunityBoardHandler: Loaded 19 Handlers
+2016.02.06 17:05:16,493	INFO	1	handlers.MasterHandler	ItemHandler: Loaded 31 Handlers
+2016.02.06 17:05:16,509	INFO	1	handlers.MasterHandler	PunishmentHandler: Loaded 3 Handlers
+2016.02.06 17:05:16,550	INFO	1	handlers.MasterHandler	UserCommandHandler: Loaded 16 Handlers
+2016.02.06 17:05:16,551	INFO	1	handlers.MasterHandler	VoicedCommandHandler: Loaded 6 Handlers
+2016.02.06 17:05:16,558	INFO	1	handlers.MasterHandler	TargetHandler: Loaded 35 Handlers
+2016.02.06 17:05:16,566	INFO	1	handlers.MasterHandler	TelnetHandler: Loaded 20 Handlers
+2016.02.06 17:05:16,574	INFO	1	handlers.MasterHandler	Handlers Loaded...
+2016.02.06 17:05:31,699	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	MentorGuide: Loaded: 41 mentee coins
+2016.02.06 17:05:33,967	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	NpcBuffersData: Loaded: 40 buffers data.
+2016.02.06 17:05:52,055	INFO	1	com.l2jmobius.gameserver.model.events.AbstractScript	Handy's Block Checker Event is enabled
+2016.02.06 17:05:52,395	INFO	1	com.l2jmobius.gameserver.model.events.AbstractScript	Fantasy Isle: Parade starting at 2016/02/06 17:20 and is scheduled each next 1 hours.
+2016.02.06 17:06:32,586	INFO	1	instances.InstanceLoader	InstanceLoader: Loading Instances scripts.
+2016.02.06 17:06:33,693	INFO	1	gracia.GraciaLoader	GraciaLoader: Loading Gracia related scripts.
+2016.02.06 17:06:39,570	INFO	1	com.l2jmobius.gameserver.model.events.AbstractScript	[EnhanceYourWeapon] Loaded 54 Soul Crystal data.
+2016.02.06 17:06:39,580	INFO	1	com.l2jmobius.gameserver.model.events.AbstractScript	[EnhanceYourWeapon] Loaded 240 npc Leveling info data.
+2016.02.06 17:06:43,764	CONFIG	1	conquerablehalls.flagwar.BanditStronghold.BanditStronghold	Bandit StrongHold siege scheduled for Sat Feb 20 12:00:00 UTC 2016.
+2016.02.06 17:06:44,142	CONFIG	1	conquerablehalls.flagwar.WildBeastReserve.WildBeastReserve	Beast Farm siege scheduled for Sat Feb 20 12:00:00 UTC 2016.
+2016.02.06 17:06:44,487	CONFIG	1	conquerablehalls.DevastatedCastle.DevastatedCastle	Devastated Castle siege scheduled for Sat Feb 20 12:00:00 UTC 2016.
+2016.02.06 17:06:44,727	CONFIG	1	conquerablehalls.FortressOfResistance.FortressOfResistance	Fortress of Resistance siege scheduled for Sat Feb 20 12:00:00 UTC 2016.
+2016.02.06 17:06:45,053	CONFIG	1	conquerablehalls.FortressOfTheDead.FortressOfTheDead	Fortresss of the Dead siege scheduled for Sat Feb 20 12:00:00 UTC 2016.
+2016.02.06 17:06:45,319	CONFIG	1	conquerablehalls.RainbowSpringsChateau.RainbowSpringsChateau	Rainbow Springs siege scheduled for Sat Feb 20 12:00:00 UTC 2016.
+2016.02.06 17:06:45,983	INFO	1	com.l2jmobius.gameserver.model.events.AbstractScript	Event Eve the Fortune Teller has passed... Ignored 
+2016.02.06 17:06:46,148	INFO	1	com.l2jmobius.gameserver.model.events.AbstractScript	Event Hunt for Santa has passed... Ignored 
+2016.02.06 17:06:46,352	INFO	1	com.l2jmobius.gameserver.model.events.AbstractScript	Event Red Libra has passed... Ignored 
+2016.02.06 17:06:50,422	INFO	1	com.l2jmobius.gameserver.datatables.SpawnTable	SpawnTable: Loaded 3610 npc spawns.
+2016.02.06 17:06:50,481	INFO	1	com.l2jmobius.gameserver.datatables.SpawnTable	SpawnTable: Loaded 0 custom npc spawns.
+2016.02.06 17:06:50,619	INFO	1	com.l2jmobius.gameserver.datatables.SpawnTable	SpawnTable: Loaded 914 npc spawns from XML.
+2016.02.06 17:06:50,665	INFO	1	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 0 night creatures
+2016.02.06 17:06:50,688	INFO	1	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.06 17:06:50,775	INFO	1	com.l2jmobius.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Loaded 179 Instances
+2016.02.06 17:06:50,982	INFO	1	com.l2jmobius.gameserver.instancemanager.RaidBossSpawnManager	RaidBossSpawnManager: Scheduled 0 Instances
+2016.02.06 17:06:51,026	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 20 Mysterious-Box spawns.
+2016.02.06 17:06:51,135	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 716 Physical type monsters spawns.
+2016.02.06 17:06:51,274	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 716 Magical type monsters spawns.
+2016.02.06 17:06:51,302	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 92 Church of duke monsters spawns.
+2016.02.06 17:06:51,338	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: loaded 68 Emperor's grave NPC spawns.
+2016.02.06 17:06:51,342	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: spawned Conquerors' Sepulcher Manager
+2016.02.06 17:06:51,350	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: spawned Sepulcher of Rulers Manager
+2016.02.06 17:06:51,358	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: spawned Great Sages' Sepulcher Manager
+2016.02.06 17:06:51,361	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: spawned Judges' Sepulcher Manager
+2016.02.06 17:06:51,367	INFO	1	com.l2jmobius.gameserver.instancemanager.FourSepulchersManager	FourSepulchersManager: Beginning in Attack time
+2016.02.06 17:06:51,385	INFO	1	com.l2jmobius.gameserver.GameServer	---------------------------------------------------=[ Siege ]
+2016.02.06 17:06:51,416	INFO	1	com.l2jmobius.gameserver.model.entity.Siege	Siege of Gludio: Sun Feb 14 16:00:00 UTC 2016
+2016.02.06 17:06:51,420	INFO	1	com.l2jmobius.gameserver.model.entity.Siege	Siege of Dion: Sun Feb 14 16:00:00 UTC 2016
+2016.02.06 17:06:51,427	INFO	1	com.l2jmobius.gameserver.model.entity.Siege	Siege of Giran: Sun Feb 14 16:00:00 UTC 2016
+2016.02.06 17:06:51,435	INFO	1	com.l2jmobius.gameserver.model.entity.Siege	Siege of Oren: Sun Feb 14 16:00:00 UTC 2016
+2016.02.06 17:06:51,438	INFO	1	com.l2jmobius.gameserver.model.entity.Siege	Siege of Aden: Sun Feb 14 16:00:00 UTC 2016
+2016.02.06 17:06:51,440	INFO	1	com.l2jmobius.gameserver.model.entity.Siege	Siege of Innadril: Sun Feb 14 20:00:00 UTC 2016
+2016.02.06 17:06:51,448	INFO	1	com.l2jmobius.gameserver.model.entity.Siege	Siege of Goddard: Sun Feb 14 20:00:00 UTC 2016
+2016.02.06 17:06:51,450	INFO	1	com.l2jmobius.gameserver.model.entity.Siege	Siege of Rune: Sun Feb 14 20:00:00 UTC 2016
+2016.02.06 17:06:51,458	INFO	1	com.l2jmobius.gameserver.model.entity.Siege	Siege of Schuttgart: Sun Feb 14 20:00:00 UTC 2016
+2016.02.06 17:06:51,965	INFO	1	com.l2jmobius.gameserver.instancemanager.FortManager	FortManager: Loaded: 20 fortress
+2016.02.06 17:06:52,520	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	SiegeScheduleData: Loaded: 2 siege schedulers.
+2016.02.06 17:06:52,530	INFO	1	com.l2jmobius.util.data.xml.IXmlReader	CastleManorManager: Manor system is deactivated.
+2016.02.06 17:06:52,577	INFO	1	com.l2jmobius.gameserver.instancemanager.MercTicketManager	MercTicketManager: Loaded: 0 Mercenary Tickets
+2016.02.06 17:06:52,577	INFO	1	com.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded: 243 quests.
+2016.02.06 17:06:52,593	INFO	1	com.l2jmobius.gameserver.instancemanager.QuestManager	QuestManager: Loaded: 265 scripts.
+2016.02.06 17:06:52,657	INFO	1	com.l2jmobius.gameserver.script.faenor.FaenorEventParser	Event ID: (Valentines Event) has passed... Ignored.
+2016.02.06 17:06:52,657	INFO	1	com.l2jmobius.gameserver.script.faenor.FaenorScriptEngine	FaenorScriptEngine: Loaded  Valentines.xml successfully.
+2016.02.06 17:06:52,676	INFO	1	com.l2jmobius.gameserver.GameServer	AutoSpawnHandler: Loaded 6 handlers in total.
+2016.02.06 17:06:52,749	INFO	1	com.l2jmobius.gameserver.taskmanager.TaskManager	TaskManager: Loaded: 12 Tasks
+2016.02.06 17:06:52,760	INFO	1	com.l2jmobius.gameserver.instancemanager.MailManager	MailManager: Successfully loaded 0 messages.
+2016.02.06 17:06:52,765	INFO	1	com.l2jmobius.gameserver.instancemanager.PunishmentManager	PunishmentManager: Loaded 0 active and 0 expired punishments.
+2016.02.06 17:06:52,774	INFO	1	com.l2jmobius.gameserver.GameServer	IdFactory: Free ObjectID's remaining: 1878996907
+2016.02.06 17:06:52,785	INFO	1	com.l2jmobius.gameserver.model.entity.TvTManager	TvTEventEngine[TvTManager.TvTManager()]: Started.
+2016.02.06 17:06:52,803	INFO	1	com.l2jmobius.gameserver.data.sql.impl.OfflineTradersTable	OfflineTradersTable: Loading offline traders...
+2016.02.06 17:06:52,805	INFO	1	com.l2jmobius.gameserver.data.sql.impl.OfflineTradersTable	OfflineTradersTable: Loaded: 0 offline trader(s)
+2016.02.06 17:06:56,310	INFO	1	com.l2jmobius.gameserver.GameServer	GameServer: Started, using 496 of 3993 MB total memory.
+2016.02.06 17:06:56,388	INFO	1	com.l2jmobius.gameserver.GameServer	GameServer: Geodata use 0 MB of memory.
+2016.02.06 17:06:56,405	INFO	1	com.l2jmobius.gameserver.GameServer	GameServer: Maximum number of connected players is 2000.
+2016.02.06 17:06:56,420	INFO	1	com.l2jmobius.gameserver.GameServer	GameServer: Server loaded in 180 seconds.
+2016.02.06 17:06:56,681	INFO	1	com.l2jmobius.gameserver.GameServer	GameServer: is now listening on: *:7777
+2016.02.06 17:06:56,752	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.02.06 17:06:57,565	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Damn! Registeration Failed: Reason: already logged in
+2016.02.06 17:07:02,597	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.02.06 17:07:02,600	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Damn! Registeration Failed: Reason: already logged in
+2016.02.06 17:07:07,610	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.02.06 17:07:07,626	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Damn! Registeration Failed: Reason: already logged in
+2016.02.06 17:07:12,636	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.02.06 17:07:12,657	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Damn! Registeration Failed: Reason: already logged in
+2016.02.06 17:07:17,670	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.02.06 17:07:17,675	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Damn! Registeration Failed: Reason: already logged in
+2016.02.06 17:07:22,694	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.02.06 17:07:23,704	WARNING	430	com.l2jmobius.gameserver.LoginServerThread	LoginServer not avaible, trying to reconnect...
+2016.02.06 17:07:28,714	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Connecting to login on 127.0.0.1:9014
+2016.02.06 17:07:30,272	INFO	430	com.l2jmobius.gameserver.LoginServerThread	Registered on login as Server 1 : Bartz
+2016.02.06 17:08:17,257	WARNING	451	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character ReEdiT! Just a warning to be careful ;)
+2016.02.06 17:09:15,210	WARNING	454	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.06 17:18:41,347	INFO	442	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.06 17:18:42,424	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.06 17:18:42,426	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.06 17:18:42,433	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.06 17:18:42,434	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.06 17:18:42,442	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.06 17:18:42,443	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.06 17:18:42,451	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.06 17:18:42,452	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.06 17:18:42,454	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.06 17:18:42,461	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.06 17:18:42,462	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.06 17:18:42,463	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.06 17:18:42,470	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.06 17:18:42,471	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.06 17:18:42,473	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.06 17:18:42,479	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.06 17:18:42,480	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.06 17:18:42,482	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.06 17:23:16,377	INFO	439	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.06 17:23:18,338	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.06 17:23:19,162	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.06 17:23:19,680	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.06 17:23:19,720	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.06 17:23:19,729	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.06 17:23:19,739	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.06 17:23:19,760	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.06 17:23:19,762	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.06 17:23:19,779	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.06 17:23:19,781	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.06 17:23:19,782	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.06 17:23:19,790	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.06 17:23:19,791	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.06 17:23:19,793	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.06 17:23:19,801	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.06 17:23:19,802	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.06 17:23:19,804	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.06 17:23:19,811	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.06 17:35:47,372	SEVERE	448	com.l2jmobius.gameserver.engines.skills.DocumentSkill	Skill id=15651level1
+2016.02.06 17:35:47,438	SEVERE	448	com.l2jmobius.gameserver.engines.skills.DocumentSkill	Error loading file C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\stats\skills\15600-15699.xml
+2016.02.06 17:35:48,307	INFO	448	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88465 Skill templates from XML files.
+2016.02.06 17:35:49,397	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.06 17:35:49,407	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.06 17:35:49,408	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.06 17:35:49,409	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.06 17:35:49,416	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.06 17:35:49,418	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.06 17:35:49,422	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.06 17:35:49,422	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.06 17:35:49,428	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.06 17:35:49,431	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.06 17:35:49,431	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.06 17:35:49,437	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.06 17:35:49,441	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.06 17:35:49,441	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.06 17:35:49,447	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.06 17:35:49,450	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.06 17:35:49,450	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.06 17:35:49,450	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.06 17:43:15,994	SEVERE	446	com.l2jmobius.gameserver.engines.skills.DocumentSkill	Skill id=15651level1
+2016.02.06 17:43:16,060	SEVERE	446	com.l2jmobius.gameserver.engines.skills.DocumentSkill	Error loading file C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\stats\skills\15600-15699.xml
+2016.02.06 17:43:16,931	INFO	446	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88465 Skill templates from XML files.
+2016.02.06 17:43:17,857	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.06 17:43:17,857	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.06 17:43:17,873	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.06 17:43:17,873	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.06 17:43:17,873	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.06 17:43:17,888	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.06 17:43:17,888	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.06 17:43:17,888	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.06 17:43:17,888	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.06 17:43:17,888	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.06 17:43:17,904	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.06 17:43:17,904	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.06 17:43:17,904	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.06 17:43:17,904	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.06 17:43:17,904	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.06 17:43:17,923	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.06 17:43:17,923	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.06 17:43:17,923	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.06 17:48:23,755	SEVERE	456	com.l2jmobius.gameserver.engines.skills.DocumentSkill	Skill id=15651level1
+2016.02.06 17:48:23,826	SEVERE	456	com.l2jmobius.gameserver.engines.skills.DocumentSkill	Error loading file C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\stats\skills\15600-15699.xml
+2016.02.06 17:48:24,647	INFO	456	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88465 Skill templates from XML files.
+2016.02.06 17:48:25,559	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.06 17:48:25,562	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.06 17:48:25,569	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.06 17:48:25,571	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.06 17:48:25,572	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.06 17:48:25,581	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.06 17:48:25,601	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.06 17:48:25,608	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.06 17:48:25,610	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.06 17:48:25,611	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.06 17:48:25,618	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.06 17:48:25,619	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.06 17:48:25,620	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.06 17:48:25,631	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.06 17:48:25,638	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.06 17:48:25,639	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.06 17:48:25,640	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.06 17:48:25,649	INFO	456	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.06 17:50:58,910	WARNING	445	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.06 17:59:44,894	WARNING	453	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 15651 and skill level 1.
+2016.02.06 17:59:44,894	WARNING	453	com.l2jmobius.gameserver.model.events.AbstractScript	C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+2016.02.06 17:59:44,941	WARNING	453	com.l2jmobius.gameserver.model.events.AbstractScript	Nomi: null
+2016.02.06 18:00:01,947	INFO	27	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Started
+2016.02.06 18:00:01,947	INFO	27	com.l2jmobius.gameserver.model.olympiad.OlympiadGameManager	Olympiad System: Loaded 160 stadiums.
+2016.02.06 18:01:11,513	WARNING	451	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.06 18:21:52,931	INFO	50	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 18:51:53,854	INFO	18	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 18:59:25,831	INFO	429	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
+2016.02.06 19:21:52,541	INFO	33	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 19:29:17,347	WARNING	451	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 15651 and skill level 1.
+2016.02.06 19:29:17,347	WARNING	451	com.l2jmobius.gameserver.model.events.AbstractScript	C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+2016.02.06 19:29:17,394	WARNING	451	com.l2jmobius.gameserver.model.events.AbstractScript	Nomi: null
+2016.02.06 19:29:21,741	WARNING	454	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 15651 and skill level 1.
+2016.02.06 19:29:21,741	WARNING	454	com.l2jmobius.gameserver.model.events.AbstractScript	C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+2016.02.06 19:29:21,803	WARNING	454	com.l2jmobius.gameserver.model.events.AbstractScript	Nomi: null
+2016.02.06 19:29:27,045	WARNING	455	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 15651 and skill level 1.
+2016.02.06 19:29:27,047	WARNING	455	com.l2jmobius.gameserver.model.events.AbstractScript	C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+2016.02.06 19:29:27,092	WARNING	455	com.l2jmobius.gameserver.model.events.AbstractScript	Nomi: null
+2016.02.06 19:38:09,789	WARNING	447	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 15651 and skill level 1.
+2016.02.06 19:38:09,791	WARNING	447	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 15652 and skill level 1.
+2016.02.06 19:38:09,799	WARNING	447	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 15653 and skill level 1.
+2016.02.06 19:51:53,605	INFO	26	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 20:00:00,013	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.06 20:00:00,043	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.06 20:21:54,406	INFO	21	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 20:51:53,314	INFO	37	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 21:00:00,025	INFO	384	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.06 21:00:00,048	INFO	384	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.06 21:21:54,207	INFO	42	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 21:51:52,916	INFO	61	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 22:21:53,979	INFO	79	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 22:51:54,758	INFO	38	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 23:21:53,663	INFO	30	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.06 23:51:54,574	INFO	33	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 00:00:00,009	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.07 00:00:00,023	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.07 00:00:00,941	INFO	59	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Ended
+2016.02.07 00:00:00,941	INFO	59	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 18 hours and 0 mins.
+2016.02.07 00:00:00,941	INFO	59	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started : Sun Feb 07 18:00:00 UTC 2016
+2016.02.07 01:00:00,016	INFO	165	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.07 01:00:00,029	INFO	165	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.07 04:00:00,005	INFO	242	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.07 04:00:00,020	INFO	242	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.07 05:00:00,020	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.07 05:00:00,037	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.07 06:30:03,992	INFO	77	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailySkillReuseClean	Daily skill reuse cleaned.
+2016.02.07 06:30:03,993	INFO	36	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailyWorldChatPointReset	Daily world chat points has been resetted.
+2016.02.07 06:30:03,998	INFO	79	com.l2jmobius.gameserver.taskmanager.tasks.TaskBirthday	BirthdayManager: 0 gifts sent.
+2016.02.07 06:30:04,029	INFO	30	com.l2jmobius.gameserver.taskmanager.tasks.TaskRecom	Recommendations System reseted
+2016.02.07 08:00:00,010	INFO	312	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.07 08:00:00,026	INFO	312	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.07 09:00:00,000	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.07 09:00:00,016	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.07 10:17:11,141	WARNING	451	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.07 11:09:35,927	WARNING	443	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character ReEdiT! Just a warning to be careful ;)
+2016.02.07 11:11:31,970	WARNING	452	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 15651 and skill level 1.
+2016.02.07 11:11:31,974	WARNING	452	com.l2jmobius.gameserver.model.events.AbstractScript	C:\Users\karolusw89\Desktop\L2J_MobiusUP\game\data\scripts\ai\npc\Nomi\Nomi.java
+2016.02.07 11:11:32,051	WARNING	452	com.l2jmobius.gameserver.model.events.AbstractScript	Nomi: null
+2016.02.07 11:12:03,400	INFO	454	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 11:12:04,322	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 11:12:04,330	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 11:12:04,331	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 11:12:04,333	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 11:12:04,341	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 11:12:04,343	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 11:12:04,345	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 11:12:04,352	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 11:12:04,354	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 11:12:04,361	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 11:12:04,362	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 11:12:04,364	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 11:12:04,365	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 11:12:04,372	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 11:12:04,374	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 11:12:04,375	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 11:12:04,382	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 11:12:04,384	INFO	454	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 11:34:07,031	WARNING	330	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Dark Panther) NpcID: 14805 has a level above 76. Please rectify.
+2016.02.07 11:47:32,648	INFO	452	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 11:47:33,864	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 11:47:33,884	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 11:47:33,893	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 11:47:33,902	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 11:47:33,904	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 11:47:33,910	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 11:47:33,910	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 11:47:33,929	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 11:47:33,941	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 11:47:33,957	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 11:47:33,957	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 11:47:33,957	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 11:47:33,957	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 11:47:33,972	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 11:47:33,988	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 11:47:33,988	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 11:47:33,988	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 11:47:34,010	INFO	452	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 11:52:29,511	INFO	442	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 11:52:30,797	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 11:52:30,799	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 11:52:30,800	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 11:52:30,800	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 11:52:30,800	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 11:52:30,800	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 11:52:30,800	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 11:52:30,815	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 11:52:30,815	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 11:52:30,815	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 11:52:30,831	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 11:52:30,831	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 11:52:30,831	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 11:52:30,831	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 11:52:30,831	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 11:52:30,831	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 11:52:30,847	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 11:52:30,847	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 12:00:00,000	INFO	384	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.07 12:00:00,032	INFO	384	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.07 13:00:00,011	INFO	384	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.07 13:00:00,035	INFO	384	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.07 13:15:18,666	INFO	438	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 13:15:19,841	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 13:15:19,849	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 13:15:19,850	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 13:15:19,852	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 13:15:19,854	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 13:15:19,861	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 13:15:19,863	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 13:15:19,870	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 13:15:19,873	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 13:15:19,880	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 13:15:19,881	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 13:15:19,883	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 13:15:19,884	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 13:15:19,891	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 13:15:19,893	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 13:15:19,894	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 13:15:19,901	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 13:15:19,902	INFO	438	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 13:22:18,755	INFO	446	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 13:22:19,987	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 13:22:19,989	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 13:22:19,991	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 13:22:19,992	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 13:22:20,000	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 13:22:20,003	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 13:22:20,010	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 13:22:20,012	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 13:22:20,014	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 13:22:20,016	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 13:22:20,017	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 13:22:20,023	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 13:22:20,025	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 13:22:20,032	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 13:22:20,034	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 13:22:20,035	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 13:22:20,042	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 13:22:20,044	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 13:25:34,910	WARNING	442	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.07 13:27:06,963	INFO	440	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 13:27:08,026	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 13:27:08,027	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 13:27:08,029	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 13:27:08,030	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 13:27:08,038	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 13:27:08,040	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 13:27:08,042	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 13:27:08,050	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 13:27:08,051	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 13:27:08,053	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 13:27:08,060	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 13:27:08,062	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 13:27:08,063	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 13:27:08,071	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 13:27:08,072	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 13:27:08,074	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 13:27:08,082	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 13:27:08,083	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 13:27:24,092	WARNING	444	com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket	RequestAcquireSkillInfo: Player Nerfyo is trequesting info for a skill that already knows, Id: 11529 level: 1!
+2016.02.07 13:27:29,941	WARNING	443	com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket	RequestAcquireSkillInfo: Player Nerfyo is trequesting info for a skill that already knows, Id: 11530 level: 1!
+2016.02.07 13:30:21,263	INFO	444	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 13:30:22,368	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 13:30:22,371	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 13:30:22,378	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 13:30:22,379	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 13:30:22,381	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 13:30:22,383	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 13:30:22,391	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 13:30:22,392	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 13:30:22,401	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 13:30:22,403	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 13:30:22,411	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 13:30:22,411	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 13:30:22,413	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 13:30:22,420	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 13:30:22,422	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 13:30:22,423	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 13:30:22,430	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 13:30:22,431	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 13:34:33,960	INFO	439	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 13:34:35,124	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 13:34:35,146	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 13:34:35,163	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 13:34:35,168	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 13:34:35,176	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 13:34:35,178	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 13:34:35,190	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 13:34:35,197	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 13:34:35,200	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 13:34:35,207	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 13:34:35,214	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 13:34:35,217	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 13:34:35,219	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 13:34:35,226	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 13:34:35,234	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 13:34:35,236	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 13:34:35,243	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 13:34:35,246	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 13:39:52,508	INFO	439	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 13:39:53,715	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 13:39:53,717	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 13:39:53,718	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 13:39:53,720	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 13:39:53,727	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 13:39:53,729	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 13:39:53,737	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 13:39:53,738	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 13:39:53,740	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 13:39:53,747	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 13:39:53,749	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 13:39:53,750	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 13:39:53,751	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 13:39:53,753	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 13:39:53,761	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 13:39:53,762	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 13:39:53,764	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 13:39:53,765	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 13:41:35,685	INFO	441	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 13:41:36,412	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 13:41:36,412	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 13:41:36,412	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 13:41:36,423	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 13:41:36,425	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 13:41:36,432	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 13:41:36,434	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 13:41:36,436	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 13:41:36,444	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 13:41:36,445	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 13:41:36,453	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 13:41:36,454	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 13:41:36,455	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 13:41:36,457	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 13:41:36,464	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 13:41:36,465	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 13:41:36,467	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 13:41:36,474	INFO	441	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 13:57:49,217	INFO	449	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 13:57:50,141	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 13:57:50,141	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 13:57:50,141	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 13:57:50,141	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 13:57:50,160	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 13:57:50,160	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 13:57:50,160	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 13:57:50,160	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 13:57:50,172	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 13:57:50,188	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 13:57:50,188	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 13:57:50,188	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 13:57:50,188	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 13:57:50,188	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 13:57:50,188	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 13:57:50,188	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 13:57:50,188	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 13:57:50,188	INFO	449	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 14:01:08,517	INFO	439	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 14:01:09,230	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 14:01:09,232	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 14:01:09,234	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 14:01:09,235	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 14:01:09,243	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 14:01:09,245	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 14:01:09,247	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 14:01:09,254	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 14:01:09,257	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 14:01:09,258	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 14:01:09,265	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 14:01:09,267	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 14:01:09,268	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 14:01:09,276	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 14:01:09,277	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 14:01:09,279	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 14:01:09,287	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 14:01:09,288	INFO	439	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 14:02:52,736	INFO	442	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 14:02:53,434	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 14:02:53,441	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 14:02:53,443	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 14:02:53,444	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 14:02:53,446	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 14:02:53,454	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 14:02:53,456	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 14:02:53,457	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 14:02:53,465	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 14:02:53,466	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 14:02:53,468	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 14:02:53,476	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 14:02:53,477	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 14:02:53,478	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 14:02:53,485	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 14:02:53,487	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 14:02:53,488	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 14:02:53,489	INFO	442	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 14:18:28,504	INFO	444	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 14:18:31,371	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 14:18:31,373	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 14:18:31,375	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 14:18:31,384	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 14:18:31,393	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 14:18:31,404	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 14:18:31,407	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 14:18:31,415	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 14:18:31,419	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 14:18:31,421	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 14:18:31,428	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 14:18:31,430	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 14:18:31,437	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 14:18:31,438	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 14:18:31,440	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 14:18:31,447	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 14:18:31,449	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 14:18:31,450	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 14:36:45,779	INFO	440	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 14:36:46,829	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 14:36:46,831	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 14:36:46,832	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 14:36:46,834	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 14:36:46,841	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 14:36:46,843	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 14:36:46,851	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 14:36:46,853	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 14:36:46,855	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 14:36:46,863	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 14:36:46,864	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 14:36:46,865	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 14:36:46,867	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 14:36:46,874	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 14:36:46,875	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 14:36:46,877	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 14:36:46,884	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 14:36:46,885	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 14:49:02,116	WARNING	440	handlers.admincommandhandlers.AdminSkill	
+2016.02.07 15:06:53,034	WARNING	191	com.l2jmobius.gameserver.model.events.AbstractScript	Antharas: Player Nerfyo attacked Antharas in invalid conditions!
+2016.02.07 15:07:32,885	WARNING	208	com.l2jmobius.gameserver.model.events.AbstractScript	Antharas: Player Nerfyo attacked Antharas in invalid conditions!
+2016.02.07 15:36:19,141	INFO	429	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
+2016.02.07 16:00:00,006	INFO	248	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.07 16:00:00,028	INFO	248	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.07 16:30:52,255	INFO	74	com.l2jmobius.gameserver.model.entity.TvTManager	TvTEventEngine[TvTManager.run()]: Lack of registration, abort event.
+2016.02.07 16:44:15,816	WARNING	440	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.07 16:54:14,394	WARNING	197	com.l2jmobius.gameserver.model.events.AbstractScript	Antharas: Player Nerfyo attacked Antharas in invalid conditions!
+2016.02.07 16:54:18,094	WARNING	202	com.l2jmobius.gameserver.model.events.AbstractScript	Antharas: Player Nerfyo attacked Antharas in invalid conditions!
+2016.02.07 16:56:38,842	WARNING	205	com.l2jmobius.gameserver.model.events.AbstractScript	Antharas: Player Nerfyo attacked Antharas in invalid conditions!
+2016.02.07 16:56:42,041	WARNING	208	com.l2jmobius.gameserver.model.events.AbstractScript	Antharas: Player Nerfyo attacked Antharas in invalid conditions!
+2016.02.07 16:56:45,834	WARNING	192	com.l2jmobius.gameserver.model.events.AbstractScript	Antharas: Player Nerfyo attacked Antharas in invalid conditions!
+2016.02.07 17:00:00,025	INFO	397	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.07 17:00:00,045	INFO	397	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.07 17:43:38,252	WARNING	443	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.07 18:00:01,905	INFO	68	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Started
+2016.02.07 18:03:21,082	WARNING	441	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character ReEdiT! Just a warning to be careful ;)
+2016.02.07 18:05:35,172	WARNING	330	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Cursed Man) NpcID: 14080 has a level above 76. Please rectify.
+2016.02.07 18:08:39,256	WARNING	324	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Reanimated Man) NpcID: 14007 has a level above 76. Please rectify.
+2016.02.07 18:12:16,936	INFO	446	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 18:12:17,926	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 18:12:17,928	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 18:12:17,929	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 18:12:17,931	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 18:12:17,933	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 18:12:17,941	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 18:12:17,942	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 18:12:17,944	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 18:12:17,952	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 18:12:17,953	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 18:12:17,955	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 18:12:17,956	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 18:12:17,963	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 18:12:17,965	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 18:12:17,973	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 18:12:17,974	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 18:12:17,975	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 18:12:17,977	INFO	446	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 18:18:21,402	INFO	448	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.07 18:18:21,405	WARNING	27	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 6331 and skill level 1.
+2016.02.07 18:18:22,141	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.07 18:18:22,141	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.07 18:18:22,141	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.07 18:18:22,151	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.07 18:18:22,151	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.07 18:18:22,151	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.07 18:18:22,163	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.07 18:18:22,163	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.07 18:18:22,163	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.07 18:18:22,163	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.07 18:18:22,179	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.07 18:18:22,179	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.07 18:18:22,179	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.07 18:18:22,179	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.07 18:18:22,195	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.07 18:18:22,195	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.07 18:18:22,195	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.07 18:18:22,195	INFO	448	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.07 18:21:56,410	INFO	28	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 18:46:31,447	WARNING	442	com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket	Skill Id 11532 not found in player : L2PcInstance:ReEdiT[268489123]
+2016.02.07 18:46:31,904	WARNING	439	com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket	Skill Id 11530 not found in player : L2PcInstance:ReEdiT[268489123]
+2016.02.07 18:51:57,144	INFO	77	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 18:53:04,675	WARNING	330	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Big Boom) NpcID: 14706 has a level above 76. Please rectify.
+2016.02.07 18:55:42,768	WARNING	446	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.07 18:57:17,300	WARNING	453	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character ReEdiT! Just a warning to be careful ;)
+2016.02.07 19:02:22,515	WARNING	440	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character ReEdiT! Just a warning to be careful ;)
+2016.02.07 19:21:55,972	INFO	48	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 19:22:00,694	WARNING	456	com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket	No handler registered for admin command 'admin_hjeal'
+2016.02.07 19:28:53,972	WARNING	443	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.07 19:51:56,870	INFO	42	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 20:00:00,007	INFO	405	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.07 20:00:00,020	INFO	405	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.07 20:17:01,400	WARNING	457	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.07 20:21:57,547	INFO	76	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 20:51:56,507	INFO	47	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 21:00:00,023	INFO	307	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.07 21:00:00,034	INFO	307	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.07 21:21:57,313	INFO	54	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 21:51:56,031	INFO	32	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 22:21:57,004	INFO	77	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 22:51:57,718	INFO	66	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 23:21:56,610	INFO	78	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.07 23:51:57,462	INFO	18	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 00:00:00,008	INFO	165	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.08 00:00:00,023	INFO	165	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.08 00:00:02,888	INFO	38	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Ended
+2016.02.08 00:00:02,888	INFO	38	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 18 hours and 0 mins.
+2016.02.08 00:00:02,888	INFO	38	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started : Mon Feb 08 18:00:02 UTC 2016
+2016.02.08 01:00:00,000	INFO	392	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.08 01:00:00,016	INFO	392	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.08 04:00:00,005	INFO	338	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.08 04:00:00,030	INFO	338	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.08 05:00:00,015	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.08 05:00:00,247	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.08 06:30:06,411	INFO	56	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailyWorldChatPointReset	Daily world chat points has been resetted.
+2016.02.08 06:30:06,414	INFO	34	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailySkillReuseClean	Daily skill reuse cleaned.
+2016.02.08 06:30:06,416	INFO	48	com.l2jmobius.gameserver.taskmanager.tasks.TaskBirthday	BirthdayManager: 0 gifts sent.
+2016.02.08 06:30:06,679	INFO	27	com.l2jmobius.gameserver.taskmanager.tasks.TaskRecom	Recommendations System reseted
+2016.02.08 08:00:00,011	INFO	238	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.08 08:00:00,026	INFO	238	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.08 09:00:00,031	INFO	110	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.08 09:00:00,044	INFO	110	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.08 12:00:00,010	INFO	339	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.08 12:00:00,277	INFO	339	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.08 13:00:00,010	INFO	397	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.08 13:00:00,025	INFO	397	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.08 16:00:00,000	INFO	242	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.08 16:00:00,032	INFO	242	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.08 16:30:52,061	INFO	37	com.l2jmobius.gameserver.model.entity.TvTManager	TvTEventEngine[TvTManager.run()]: Lack of registration, abort event.
+2016.02.08 17:00:00,015	INFO	238	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.08 17:00:00,028	INFO	238	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.08 17:00:07,078	INFO	54	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ScheduleAuctionTask: Auction 2 has started for instance 32321
+2016.02.08 17:00:07,100	INFO	54	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Schedule current auction 2 for instance 32321
+2016.02.08 18:00:04,641	INFO	41	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Started
+2016.02.08 18:21:59,957	INFO	44	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 18:51:58,663	INFO	61	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 19:18:46,647	WARNING	448	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.08 19:21:59,640	INFO	50	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 19:26:21,015	WARNING	451	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.08 19:50:41,579	WARNING	440	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.08 19:52:00,551	INFO	80	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 20:00:00,005	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.08 20:00:00,022	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.08 20:21:59,229	INFO	51	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 20:52:00,101	INFO	62	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 21:00:00,014	INFO	242	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.08 21:00:00,027	INFO	242	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.08 21:22:00,763	INFO	61	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 21:29:40,079	WARNING	440	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.08 21:51:59,736	INFO	82	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 22:00:00,283	INFO	45	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Auction 2 has finished. There have not been any bid for instance 32321
+2016.02.08 22:00:00,294	INFO	45	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Schedule next auction 4 on 17:00:00 15.02.16 for instance 32321
+2016.02.08 22:00:59,141	WARNING	444	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.08 22:06:12,772	WARNING	342	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Reanimated Man) NpcID: 14007 has a level above 76. Please rectify.
+2016.02.08 22:08:30,816	INFO	440	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.08 22:08:31,720	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.08 22:08:31,730	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.08 22:08:31,730	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.08 22:08:31,742	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.08 22:08:31,753	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.08 22:08:31,761	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.08 22:08:31,765	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.08 22:08:31,773	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.08 22:08:31,782	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.08 22:08:31,784	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.08 22:08:31,787	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.08 22:08:31,789	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.08 22:08:31,796	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.08 22:08:31,797	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.08 22:08:31,800	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.08 22:08:31,800	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.08 22:08:31,800	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.08 22:08:31,816	INFO	440	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.08 22:16:51,690	WARNING	441	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character ReEdiT! Just a warning to be careful ;)
+2016.02.08 22:21:06,252	INFO	444	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.08 22:21:07,245	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.08 22:21:07,247	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.08 22:21:07,254	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.08 22:21:07,256	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.08 22:21:07,257	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.08 22:21:07,265	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.08 22:21:07,267	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.08 22:21:07,274	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.08 22:21:07,277	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.08 22:21:07,278	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.08 22:21:07,278	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.08 22:21:07,287	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.08 22:21:07,288	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.08 22:21:07,290	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.08 22:21:07,297	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.08 22:21:07,298	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.08 22:21:07,299	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.08 22:21:07,300	INFO	444	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.08 22:22:00,525	INFO	32	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 22:35:36,263	WARNING	451	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.08 22:35:43,357	INFO	453	com.l2jmobius.gameserver.engines.DocumentEngine	DocumentEngine: Loaded 88480 Skill templates from XML files.
+2016.02.08 22:35:44,205	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 27827 Class Skills for 145 Class Skill Trees.
+2016.02.08 22:35:44,213	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 24 Sub-Class Skills.
+2016.02.08 22:35:44,214	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 38 Dual-Class Skills.
+2016.02.08 22:35:44,216	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 105 Transfer Skills for 3 Transfer Skill Trees.
+2016.02.08 22:35:44,225	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Race skills for 6 Race Skill Trees.
+2016.02.08 22:35:44,227	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 35 Fishing Skills, 8 Dwarven only Fishing Skills.
+2016.02.08 22:35:44,234	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 3 Collect Skills.
+2016.02.08 22:35:44,236	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 172 Pledge Skills, 142 for Pledge and 30 Residential.
+2016.02.08 22:35:44,238	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 18 Sub-Pledge Skills.
+2016.02.08 22:35:44,245	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 32 Transform Skills.
+2016.02.08 22:35:44,246	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 8 Noble Skills.
+2016.02.08 22:35:44,247	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 5 Hero Skills.
+2016.02.08 22:35:44,254	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Skills.
+2016.02.08 22:35:44,256	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 14 Game Master Aura Skills.
+2016.02.08 22:35:44,257	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 138 Ability Skills.
+2016.02.08 22:35:44,264	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 120 Alchemy Skills.
+2016.02.08 22:35:44,266	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 20 Revelation Skills.
+2016.02.08 22:35:44,268	INFO	453	com.l2jmobius.util.data.xml.IXmlReader	SkillTreesData: Loaded 4 Subclass change Skills.
+2016.02.08 22:40:02,716	WARNING	359	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Reanimated Man) NpcID: 14007 has a level above 76. Please rectify.
+2016.02.08 22:51:36,216	WARNING	455	com.l2jmobius.gameserver.network.clientpackets.L2GameClientPacket	No handler registered for admin command 'admin_HEAL'
+2016.02.08 22:51:59,234	INFO	18	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 22:55:45,765	WARNING	284	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Cursed Man) NpcID: 14080 has a level above 76. Please rectify.
+2016.02.08 23:05:46,843	WARNING	370	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Kai the Cat) NpcID: 14220 has a level above 76. Please rectify.
+2016.02.08 23:15:25,937	WARNING	359	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Wynn Kai the Cat) NpcID: 15066 has a level above 76. Please rectify.
+2016.02.08 23:15:51,118	WARNING	284	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Kai the Cat) NpcID: 14220 has a level above 76. Please rectify.
+2016.02.08 23:16:07,285	WARNING	257	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Wynn Kai the Cat) NpcID: 15066 has a level above 76. Please rectify.
+2016.02.08 23:16:20,042	WARNING	359	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Wynn Kai the Cat) NpcID: 15066 has a level above 76. Please rectify.
+2016.02.08 23:17:26,341	WARNING	342	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Wynn Feline King) NpcID: 15074 has a level above 76. Please rectify.
+2016.02.08 23:17:37,741	WARNING	319	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Wynn Kai the Cat) NpcID: 15066 has a level above 76. Please rectify.
+2016.02.08 23:21:33,328	WARNING	361	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Cute Bear) NpcID: 14929 has a level above 76. Please rectify.
+2016.02.08 23:22:00,178	INFO	46	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.08 23:22:18,532	WARNING	345	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Cute Bear) NpcID: 14929 has a level above 76. Please rectify.
+2016.02.08 23:22:51,195	WARNING	265	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Mew the Cat) NpcID: 14176 has a level above 76. Please rectify.
+2016.02.08 23:23:16,563	WARNING	357	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Mew the Cat) NpcID: 14176 has a level above 76. Please rectify.
+2016.02.08 23:23:45,427	WARNING	292	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Feline Queen) NpcID: 14260 has a level above 76. Please rectify.
+2016.02.08 23:23:58,272	WARNING	453	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character ReEdiT! Just a warning to be careful ;)
+2016.02.08 23:24:14,304	WARNING	284	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Kai the Cat) NpcID: 14220 has a level above 76. Please rectify.
+2016.02.08 23:24:33,879	WARNING	344	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Feline Queen) NpcID: 14260 has a level above 76. Please rectify.
+2016.02.08 23:26:54,563	WARNING	275	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Feline Queen) NpcID: 14260 has a level above 76. Please rectify.
+2016.02.08 23:27:09,757	WARNING	324	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Kai the Cat) NpcID: 14220 has a level above 76. Please rectify.
+2016.02.08 23:27:40,679	WARNING	325	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Feline Queen) NpcID: 14260 has a level above 76. Please rectify.
+2016.02.08 23:28:23,967	WARNING	353	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Feline Queen) NpcID: 14260 has a level above 76. Please rectify.
+2016.02.08 23:52:00,863	INFO	48	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 00:00:00,032	INFO	339	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.09 00:00:00,054	INFO	339	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.09 00:00:04,516	INFO	21	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Ended
+2016.02.09 00:00:04,518	INFO	21	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 18 hours and 0 mins.
+2016.02.09 00:00:04,522	INFO	21	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started : Tue Feb 09 18:00:04 UTC 2016
+2016.02.09 00:00:09,016	INFO	31	com.l2jmobius.gameserver.taskmanager.tasks.TaskClanLeaderApply	TaskClanLeaderApply: launched.
+2016.02.09 01:00:00,231	INFO	339	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.09 01:00:00,495	INFO	339	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.09 04:00:00,009	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.09 04:00:00,029	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.09 05:00:00,000	INFO	397	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.09 05:00:00,016	INFO	397	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.09 06:30:09,210	INFO	75	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailyWorldChatPointReset	Daily world chat points has been resetted.
+2016.02.09 06:30:09,210	INFO	33	com.l2jmobius.gameserver.taskmanager.tasks.TaskBirthday	BirthdayManager: 0 gifts sent.
+2016.02.09 06:30:09,210	INFO	41	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailySkillReuseClean	Daily skill reuse cleaned.
+2016.02.09 06:30:09,288	INFO	52	com.l2jmobius.gameserver.taskmanager.tasks.TaskRecom	Recommendations System reseted
+2016.02.09 08:00:00,000	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.09 08:00:00,016	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.09 09:00:00,000	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.09 09:00:00,031	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.09 12:00:00,011	INFO	254	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.09 12:00:00,032	INFO	254	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.09 13:00:00,023	INFO	334	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.09 13:00:00,040	INFO	334	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.09 15:20:29,656	WARNING	449	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.09 16:00:00,005	INFO	101	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.09 16:00:00,027	INFO	101	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.09 16:28:38,378	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Removing skill Skill Seed of Water(1286,1) from player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,416	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Removing skill Skill Aura Symphony(1288,1) from player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,431	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Aura Flash(1417,5) to 1 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,447	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Removing skill Skill Blizzard(1290,1) from player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,463	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Curse: Weakness(1164,19) to 12 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,478	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Removing skill Skill Elemental Symphony(1293,1) from player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,510	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Aqua Splash(1295,9) to 2 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,541	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Curse Fear(1169,14) to 7 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,572	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Clear Mind(1297,6) to 3 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,611	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Anti Magic(146,45) to 31 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,645	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Frost Wall(1174,22) to 8 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,676	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Mana Regeneration(1047,4) to 3 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,708	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Higher Mana Gain(285,27) to 20 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,723	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Freezing Shackle(1183,4) to 2 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,754	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Cancellation(1056,12) to 5 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,770	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Create Common Item(1320,9) to 7 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,786	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Sleep(1069,42) to 28 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,816	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Surrender to Water(1071,14) to 7 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,847	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Sleeping Cloud(1072,5) to 2 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,863	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Surrender to Earth(1223,15) to 8 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,894	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Removing skill Skill Aura Bird - Falcon(841,1) from player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,926	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Removing skill Skill Aura Bird - Owl(842,1) from player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:38,975	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Aura Flare(1231,28) to 14 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,020	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Hydro Blast(1235,28) to 14 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,052	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Fast HP Recovery(212,6) to 4 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,083	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Frost Bolt(1236,19) to 12 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,100	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Boost Mana(213,8) to 6 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,116	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Ice Dagger(1237,17) to 10 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,131	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Fast Mana Recovery(229,7) to 5 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,163	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Robe Mastery(234,41) to 27 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,194	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Expertise D(239,4) to 3 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,225	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Solar Flare(1265,14) to 7 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,257	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Weapon Mastery(249,42) to 28 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,318	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Aura Bolt(1275,14) to 7 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:28:39,349	INFO	453	com.l2jmobius.gameserver.model.actor.L2Character	Decreasing skill Skill Spoil(254,10) to 8 for player L2PcInstance:GravieR[268487827]
+2016.02.09 16:30:51,681	INFO	34	com.l2jmobius.gameserver.model.entity.TvTManager	TvTEventEngine[TvTManager.run()]: Lack of registration, abort event.
+2016.02.09 16:40:57,798	WARNING	438	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.09 17:00:00,028	INFO	394	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.09 17:00:00,047	INFO	394	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.09 17:05:54,278	WARNING	453	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.09 17:05:57,316	WARNING	439	com.l2jmobius.gameserver.datatables.SkillData	SkillData: No skill info found for skill id 1154 and skill level -1.
+2016.02.09 17:15:49,904	WARNING	451	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.09 18:00:06,247	INFO	66	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Started
+2016.02.09 18:22:03,178	INFO	55	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 18:32:46,111	WARNING	445	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.09 18:52:01,972	INFO	66	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 19:00:10,235	INFO	57	com.l2jmobius.gameserver.instancemanager.FishingChampionshipManager	FishingChampionshipManager : new event period start.
+2016.02.09 19:15:22,954	INFO	69	com.l2jmobius.gameserver.instancemanager.GlobalVariablesManager	GlobalVariablesManager: Stored 5 variables.
+2016.02.09 19:22:02,797	INFO	30	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 19:52:03,410	INFO	49	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 20:00:00,014	INFO	392	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.09 20:00:00,028	INFO	392	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.09 20:22:02,264	INFO	18	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 20:30:45,945	WARNING	457	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.09 20:32:16,032	WARNING	373	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Reanimated Man) NpcID: 14007 has a level above 76. Please rectify.
+2016.02.09 20:34:02,932	WARNING	365	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Reanimated Man) NpcID: 14007 has a level above 76. Please rectify.
+2016.02.09 20:37:10,047	WARNING	335	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Reanimated Man) NpcID: 14007 has a level above 76. Please rectify.
+2016.02.09 20:38:12,488	WARNING	331	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Reanimated Man) NpcID: 14007 has a level above 76. Please rectify.
+2016.02.09 20:45:58,481	WARNING	361	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Big Boom) NpcID: 14706 has a level above 76. Please rectify.
+2016.02.09 20:51:01,232	WARNING	439	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character GravieR! Just a warning to be careful ;)
+2016.02.09 20:51:30,041	WARNING	316	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Reanimated Man) NpcID: 14007 has a level above 76. Please rectify.
+2016.02.09 20:52:03,063	INFO	21	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 20:54:15,779	WARNING	363	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Reanimated Man) NpcID: 14007 has a level above 76. Please rectify.
+2016.02.09 21:00:00,009	INFO	100	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.09 21:00:00,020	INFO	100	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.09 21:06:53,693	WARNING	363	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Nightshade) NpcID: 14628 has a level above 76. Please rectify.
+2016.02.09 21:10:01,929	WARNING	360	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Shadow) NpcID: 14496 has a level above 76. Please rectify.
+2016.02.09 21:12:20,656	WARNING	316	com.l2jmobius.gameserver.model.effects.AbstractEffect	Summon: (Nightshade) NpcID: 14628 has a level above 76. Please rectify.
+2016.02.09 21:14:55,007	WARNING	441	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.09 21:22:03,668	INFO	74	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 21:24:17,519	WARNING	440	com.l2jmobius.gameserver.model.actor.L2Character	Master access level set for character Nerfyo! Just a warning to be careful ;)
+2016.02.09 21:29:18,847	INFO	429	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
+2016.02.09 21:52:02,516	INFO	26	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 22:22:03,310	INFO	75	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 22:52:03,910	INFO	82	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 23:22:02,780	INFO	56	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.09 23:52:03,549	INFO	29	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 00:00:00,010	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.10 00:00:00,025	INFO	154	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.10 00:00:05,510	INFO	67	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Ended
+2016.02.10 00:00:05,512	INFO	67	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 18 hours and 0 mins.
+2016.02.10 00:00:05,514	INFO	67	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started : Wed Feb 10 18:00:05 UTC 2016
+2016.02.10 01:00:00,021	INFO	254	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.10 01:00:00,032	INFO	254	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.10 04:00:00,005	INFO	298	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.10 04:00:00,028	INFO	298	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.10 05:00:00,014	INFO	169	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.10 05:00:00,025	INFO	169	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.10 06:30:11,478	INFO	81	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailyWorldChatPointReset	Daily world chat points has been resetted.
+2016.02.10 06:30:11,478	INFO	26	com.l2jmobius.gameserver.taskmanager.tasks.TaskBirthday	BirthdayManager: 0 gifts sent.
+2016.02.10 06:30:11,478	INFO	50	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailySkillReuseClean	Daily skill reuse cleaned.
+2016.02.10 06:30:11,478	INFO	35	com.l2jmobius.gameserver.taskmanager.tasks.TaskVitalityReset	TaskVitalityReset: launched.
+2016.02.10 06:30:11,525	INFO	74	com.l2jmobius.gameserver.taskmanager.tasks.TaskRecom	Recommendations System reseted
+2016.02.10 08:00:00,000	INFO	238	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.10 08:00:00,017	INFO	238	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.10 09:00:00,020	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.10 09:00:00,026	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.10 12:00:00,011	INFO	334	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.10 12:00:00,035	INFO	334	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.10 13:00:00,015	INFO	100	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.10 13:00:00,027	INFO	100	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.10 16:00:00,005	INFO	110	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.10 16:00:00,256	INFO	110	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.10 16:30:51,662	INFO	23	com.l2jmobius.gameserver.model.entity.TvTManager	TvTEventEngine[TvTManager.run()]: Lack of registration, abort event.
+2016.02.10 17:00:00,010	INFO	392	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.10 17:00:00,057	INFO	392	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.10 17:00:12,678	INFO	41	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ScheduleAuctionTask: Auction 3 has started for instance 32322
+2016.02.10 17:00:12,725	INFO	41	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Schedule current auction 3 for instance 32322
+2016.02.10 18:00:06,446	INFO	74	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Started
+2016.02.10 18:22:05,341	INFO	32	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 18:52:06,047	INFO	52	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 19:22:04,663	INFO	83	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 19:52:05,584	INFO	71	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 20:00:00,005	INFO	338	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.10 20:00:00,263	INFO	338	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.10 20:22:06,267	INFO	36	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 20:52:04,910	INFO	27	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 21:00:00,016	INFO	338	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.10 21:00:00,246	INFO	338	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.10 21:22:05,804	INFO	81	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 21:52:06,475	INFO	58	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 22:00:01,478	INFO	40	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Auction 3 has finished. There have not been any bid for instance 32322
+2016.02.10 22:00:01,481	INFO	40	com.l2jmobius.gameserver.model.itemauction.ItemAuctionInstance	ItemAuctionInstance: Schedule next auction 5 on 17:00:00 17.02.16 for instance 32322
+2016.02.10 22:22:05,142	INFO	70	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 22:52:06,025	INFO	40	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 23:22:06,688	INFO	80	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.10 23:52:05,388	INFO	43	com.l2jmobius.gameserver.taskmanager.tasks.TaskOlympiadSave	Olympiad System: Data updated.
+2016.02.11 00:00:00,000	INFO	242	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.11 00:00:00,500	INFO	242	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.11 00:00:06,494	INFO	69	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Olympiad Game Ended
+2016.02.11 00:00:06,494	INFO	69	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Competition Period Starts in 0 days, 18 hours and 0 mins.
+2016.02.11 00:00:06,494	INFO	69	com.l2jmobius.gameserver.model.olympiad.Olympiad	Olympiad System: Event starts/started : Thu Feb 11 18:00:06 UTC 2016
+2016.02.11 00:43:43,066	INFO	429	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
+2016.02.11 01:00:00,000	INFO	113	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.11 01:00:00,047	INFO	113	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.11 04:00:00,000	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.11 04:00:00,287	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.11 05:00:00,016	INFO	339	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.11 05:00:00,262	INFO	339	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.11 06:30:15,080	INFO	78	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailyWorldChatPointReset	Daily world chat points has been resetted.
+2016.02.11 06:30:15,080	INFO	21	com.l2jmobius.gameserver.taskmanager.tasks.TaskBirthday	BirthdayManager: 0 gifts sent.
+2016.02.11 06:30:15,081	INFO	47	com.l2jmobius.gameserver.taskmanager.tasks.TaskDailySkillReuseClean	Daily skill reuse cleaned.
+2016.02.11 06:30:15,257	INFO	36	com.l2jmobius.gameserver.taskmanager.tasks.TaskRecom	Recommendations System reseted
+2016.02.11 08:00:00,006	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 726 day creatures
+2016.02.11 08:00:00,263	INFO	170	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 1162 night creatures
+2016.02.11 09:00:00,000	INFO	298	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Removed 1162 night creatures
+2016.02.11 09:00:00,016	INFO	298	com.l2jmobius.gameserver.instancemanager.DayNightSpawnManager	DayNightSpawnManager: Spawned 726 day creatures
+2016.02.11 09:03:49,910	INFO	429	com.l2jmobius.util.IPv4Filter	IPv4Filter: Someone tried to connect from something other than IPv4: 0:0:0:0:0:0:0:1
